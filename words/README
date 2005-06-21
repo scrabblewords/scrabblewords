@@ -1,0 +1,24 @@
+The word lists in this directory were obtained from the following places:
+
+
+North American (north-american/twl98.txt)
+-----------------------------------------
+The full TWL98 list is a compilation of two partial lists.
+
+The 2-12 letter TWL98 list was obtained from:
+http://www.improving.org/paulp/scrabble/
+
+The Long List of 10-15 letter words was obtained from:
+http://www.scrabble-assoc.com/boards/dictionary/olwl.html
+
+
+British (british/sowpods.txt)
+-----------------------------
+The full SOWPODS list was obtained from:
+http://www.isc.ro/en/commands/lists.html
+
+
+French (french/ods4.txt)
+------------------------
+The full ODS4 list was obtained from:
+http://www.isc.ro/en/commands/lists.html
