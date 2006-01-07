@@ -14449,7 +14449,7 @@ BACCAE <bacca=n> [n]
 BACHED <bach=v> [v]
 BACHES <bach=v> [v]
 BACKED <back=v> [v]
-BACKER a supporter [n -S]
+BACKER a {supporter=n} [n -S]
 BACKUP a substitute [n -S]
 BACONS <bacon=n> [n]
 BACULA <baculum=n> [n]
@@ -14559,7 +14559,7 @@ BARKED <bark=v> [v]
 BARKER one that {barks=v} [n -S]
 BARLEY a cereal grass [n -LEYS]
 BARLOW a jackknife [n -S]
-BARMAN a male bartender [n BARMEN]
+BARMAN a male {bartender=n} [n BARMEN]
 BARMEN <barman=n> [n]
 BARMIE {barmy=adj} [adj]
 BARONG a broad knife [n -S]
@@ -30249,14 +30249,14 @@ BARHOPS <barhop=v> [v]
 BARILLA a chemical compound [n -S]
 BARITES <barite=n> [n]
 BARIUMS <barium=n> [n]
-BARKEEP a bartender [n -S]
+BARKEEP a {bartender=n} [n -S]
 BARKERS <barker=n> [n]
 BARKIER <barky=adj> [adj]
 BARKING <bark=v> [v]
 BARLESS having no restraints [adj]
 BARLEYS <barley=n> [n]
 BARLOWS <barlow=n> [n]
-BARMAID a female bartender [n -S]
+BARMAID a female {bartender=n} [n -S]
 BARMIER <barmy=adj> [adj]
 BARNIER <barny=adj> [adj]
 BARONET the holder of a rank below that of a baron [n -S]
@@ -38094,7 +38094,7 @@ HEIMISH {homelike=adj} [adj]
 HEINIES <heinie=n> [n]
 HEINOUS very wicked [adj]
 HEIRDOM {heirship=n} [n -S]
-HEIRESS a female inheritor [n -ES]
+HEIRESS a female {inheritor=n} [n -ES]
 HEIRING <heir=v> [v]
 HEISTED <heist=v> [v]
 HEISTER one that {heists=v} [n -S]
@@ -52233,7 +52233,7 @@ ADEPTEST <adept=adj> [adj]
 ADEQUACY the state of being adequate [n -CIES]
 ADEQUATE sufficient for a specific requirement [adj]
 ADHEREND the surface to which an adhesive adheres [n -S]
-ADHERENT a supporter [n -S]
+ADHERENT a {supporter=n} [n -S]
 ADHERERS <adherer=n> [n]
 ADHERING <adhere=v> [v]
 ADHESION the act of adhering [n -S]
@@ -66521,7 +66521,7 @@ MAYFLIES <mayfly=n> [n]
 MAYORESS a female {mayor=n} [n -ES]
 MAYPOLES <maypole=n> [n]
 MAYWEEDS <mayweed=n> [n]
-MAZAEDIA spore-producing organs of certain lichens [n]
+MAZAEDIA <mazaedium=n> [n]
 MAZELIKE {mazy=adj} [adj]
 MAZINESS the quality of being mazy [n -ES]
 MAZOURKA {mazurka=n} [n -S]
@@ -67645,7 +67645,7 @@ NAPPIEST <nappy=adj> [adj]
 NARCEINE an opium derivative [n -S]
 NARCEINS <narcein=n> [n]
 NARCISMS <narcism=n> [n]
-NARCISSI bulbous flowering plants [n]
+NARCISSI <narcissus=n> [n]
 NARCISTS <narcist=n> [n]
 NARCOSES <narcosis=n> [n]
 NARCOSIS a drug-induced stupor [n -COSES]
@@ -70533,7 +70533,7 @@ POSTFORM to shape subsequently [v -ED, -ING, -S]
 POSTGAME following a game [adj]
 POSTHEAT heat applied to a metal after welding [n -S]
 POSTHOLE a hole dug to secure a fence post [n -S]
-POSTICHE an imitation [n -S]
+POSTICHE an {imitation=n} [n -S]
 POSTINGS <posting=n> [n]
 POSTIQUE {postiche=n} [n -S]
 POSTLUDE a closing musical piece [n -S]
@@ -71597,7 +71597,7 @@ RAPHIDES <raphis=n> [n]
 RAPIDEST <rapid=adj> [adj]
 RAPIDITY the state of being rapid [n -TIES]
 RAPIERED <rapier=n> [adj]
-RAPPAREE a plunderer [n -S]
+RAPPAREE a {plunderer=n} [n -S]
 RAPPELED <rappel=v> [v]
 RAPPORTS <rapport=n> [n]
 RAPTNESS the state of being rapt [n -ES]
@@ -75918,7 +75918,7 @@ STRIVERS <striver=n> [n]
 STRIVING <strive=v> [v]
 STROBILA the entire body of a tapeworm [n -LAE]
 STROBILE the conical, multiple fruit of certain trees [n -S]
-STROBILI {strobiles=n} [n]
+STROBILI <strobilus=n> [n]
 STROBILS <strobil=n> [n]
 STROKERS <stroker=n> [n]
 STROKING <stroke=v> [v]
@@ -80560,7 +80560,7 @@ ACQUIRERS <acquirer=n> [n]
 ACQUIRING <acquire=v> [v]
 ACQUITTAL
 ACQUITTED <acquit=v> [v]
-ACQUITTER one that acquits (to free or clear from a charge of fault or crime) [n, pl. -S]
+ACQUITTER one that {acquits=v} [n -S]
 ACRIDINES <acridine=n> [n]
 ACRIDNESS
 ACRITARCH
@@ -80615,8 +80615,8 @@ ADDICTIVE
 ADDITIONS <addition=n> [n]
 ADDITIVES <additive=n> [n]
 ADDRESSED <address=v> [v]
-ADDRESSEE one that is addressed (to speak to) [n, pl. -S]
-ADDRESSER one that addresses (to speak to) [n, pl. -S]
+ADDRESSEE one that is addressed [n -S]
+ADDRESSER one that {addresses=v} [n -S]
 ADDRESSES <address=v> [v]
 ADDUCTING <adduct=v> [v]
 ADDUCTION
@@ -81461,7 +81461,7 @@ APPORTION
 APPRAISAL
 APPRAISED <appraise=v> [v]
 APPRAISEE
-APPRAISER one that appraises (to set a value on) [n, pl. -S]
+APPRAISER one that {appraises=v} [n -S]
 APPRAISES <appraise=v> [v]
 APPREHEND
 APPRESSED
@@ -81926,7 +81926,7 @@ AWESTRUCK
 AWFULLEST <awful=adj> [adj]
 AWFULNESS
 AWKWARDER <awkward=adj> [adj]
-AWKWARDLY in an awkward manner (lacking skill, dexterity, or grace) [adv]
+AWKWARDLY in an awkward manner [adv]
 AXIOMATIC
 AXLETREES <axletree=n> [n]
 AXOPLASMS <axoplasm=n> [n]
@@ -82178,7 +82178,7 @@ BARRICADO
 BARRISTER
 BARSTOOLS <barstool=n> [n]
 BARTENDED <bartend=v> [v]
-BARTENDER one that bartends (to tend a barroom) [n, pl. -S]
+BARTENDER one that {bartends=v} [n -S]
 BARTERERS <barterer=n> [n]
 BARTERING <barter=v> [v]
 BARTISANS <bartisan=n> [n]
@@ -82460,7 +82460,7 @@ BENTONITE
 BENTWOODS <bentwood=n> [n]
 BENUMBING <benumb=v> [v]
 BENZENOID
-BENZIDINE a hydrocarbon [n, pl. -S]
+BENZIDINE a hydrocarbon [n -S]
 BENZIDINS <benzidin=n> [n]
 BENZOATES <benzoate=n> [n]
 BEPAINTED <bepaint=v> [v]
@@ -82849,7 +82849,7 @@ BLUEWEEDS <blueweed=n> [n]
 BLUEWOODS <bluewood=n> [n]
 BLUFFNESS
 BLUNDERED <blunder=v> [v]
-BLUNDERER one that blunders (to make a mistake) [n, pl. -S]
+BLUNDERER one that {blunders=v} [n -S]
 BLUNTNESS
 BLURRIEST <blurry=adj> [adj]
 BLUSTERED <bluster=v> [v]
@@ -82890,7 +82890,7 @@ BOLLOXING <bollox=v> [v]
 BOLLWORMS <bollworm=n> [n]
 BOLOMETER
 BOLSTERED <bolster=v> [v]
-BOLSTERER one that bolsters (to support, to hold up or add strength to) [n, pl. -S]
+BOLSTERER one that {bolsters=v} [n -S]
 BOLTHEADS <bolthead=n> [n]
 BOLTHOLES <bolthole=n> [n]
 BOLTONIAS <boltonia=n> [n]
@@ -83766,7 +83766,7 @@ CASTIGATE
 CASTOREUM
 CASTRATED <castrate=v> [v]
 CASTRATES <castrate=v> [v]
-CASTRATOR one that castrates (to remove the testes of) [n, pl. -S]
+CASTRATOR one that {castrates=v} [n -S]
 CASUARINA
 CASUISTIC
 CASUISTRY
@@ -84052,7 +84052,7 @@ CHATCHKES <chatchke=n> [n]
 CHATELAIN
 CHATOYANT
 CHATTERED <chatter=v> [v]
-CHATTERER one that chatters (to talk rapidly and trivially) [n, pl. -S]
+CHATTERER one that {chatters=v} [n -S]
 CHATTIEST <chatty=adj> [adj]
 CHAUFFERS <chauffer=n> [n]
 CHAUFFEUR
@@ -84617,7 +84617,7 @@ COHOLDERS <coholder=n> [n]
 COHOSTESS
 COHOSTING <cohost=v> [v]
 COIFFEURS <coiffeur=n> [n]
-COIFFEUSE a female hairdresser [n, pl. -S]
+COIFFEUSE a female hairdresser [n -S]
 COIFFURED <coiffure=v> [v]
 COIFFURES <coiffure=v> [v]
 COINCIDED <coincide=v> [v]
@@ -84754,7 +84754,7 @@ COMELIEST <comely=adj> [adj]
 COMEMBERS <comember=n> [n]
 COMETHERS <comether=n> [n]
 COMFORTED <comfort=v> [v]
-COMFORTER one that comforts (to soothe in time of grief) [n, pl. -S]
+COMFORTER one that {comforts=v} [n -S]
 COMICALLY
 COMINGLED <comingle=v> [v]
 COMINGLES <comingle=v> [v]
@@ -84800,7 +84800,7 @@ COMONOMER
 COMPACTED <compact=v> [v]
 COMPACTER <compact=adj> [adj]
 COMPACTLY
-COMPACTOR compacter (one that compacts, to pack closely together) [n, pl. -S]
+COMPACTOR compacter [n -S]
 COMPADRES <compadre=n> [n]
 COMPANIED <company=v> [v]
 COMPANIES <company=v> [v]
@@ -84921,7 +84921,7 @@ CONFERVAE <conferva=n> [n]
 CONFERVAS <conferva=n> [n]
 CONFESSED <confess=v> [v]
 CONFESSES <confess=v> [v]
-CONFESSOR one that confesses (to acknowledge or disclose) [n, pl. -S]
+CONFESSOR one that {confesses=v} [n -S]
 CONFIDANT
 CONFIDENT
 CONFIDERS <confider=n> [n]
@@ -84968,8 +84968,8 @@ CONJURING <conjure=v> [v]
 CONJURORS <conjuror=n> [n]
 CONNATELY
 CONNECTED <connect=v> [v]
-CONNECTER connector (one that connects, to join together) [n, pl. -S]
-CONNECTOR one that connects (to join together) [n, pl. -S]
+CONNECTER {connector=n} [n -S]
+CONNECTOR one that {connects=v} [n -S]
 CONNEXION
 CONNIVENT
 CONNIVERS <conniver=n> [n]
@@ -85031,7 +85031,7 @@ CONTENDED <contend=v> [v]
 CONTENDER
 CONTENTED <content=v> [v]
 CONTESTED <contest=v> [v]
-CONTESTER one that contests (to compete for) [n, pl. -S]
+CONTESTER one that {contests=v} [n -S]
 CONTINENT
 CONTINUAL
 CONTINUED <continue=v> [v]
@@ -85968,7 +85968,7 @@ DEFERRALS <deferral=n> [n]
 DEFERRERS <deferrer=n> [n]
 DEFERRING <defer=v> [v]
 DEFIANCES <defiance=n> [n]
-DEFIANTLY in a defiant manner (showing defiance, bold opposition) [adv]
+DEFIANTLY in a defiant manner [adv]
 DEFICIENT
 DEFILADED <defilade=v> [v]
 DEFILADES <defilade=v> [v]
@@ -85997,7 +85997,7 @@ DEFORMERS <deformer=n> [n]
 DEFORMING <deform=v> [v]
 DEFORMITY
 DEFRAUDED <defraud=v> [v]
-DEFRAUDER one that defrauds (to swindle, to take money or property from by fraudulent means) [n, pl. -S]
+DEFRAUDER one that {defrauds=v} [n -S]
 DEFRAYALS <defrayal=n> [n]
 DEFRAYERS <defrayer=n> [n]
 DEFRAYING <defray=v> [v]
@@ -86241,7 +86241,7 @@ DESOLATES <desolate=v> [v]
 DESOLATOR
 DESORBING <desorb=v> [v]
 DESPAIRED <despair=v> [v]
-DESPAIRER one that despairs (to lose all hope) [n, pl. -S]
+DESPAIRER one that {despairs=v} [n -S]
 DESPERADO
 DESPERATE
 DESPISERS <despiser=n> [n]
@@ -86582,7 +86582,7 @@ DISCARDER
 DISCASING <discase=v> [v]
 DISCEPTED <discept=v> [v]
 DISCERNED <discern=v> [v]
-DISCERNER one that discerns (to perceive, to become aware of through the senses) [n, pl. -S]
+DISCERNER one that {discerns=v} [n -S]
 DISCHARGE
 DISCIFORM
 DISCIPLED <disciple=v> [v]
@@ -86730,7 +86730,7 @@ DISSEIZIN
 DISSEMBLE
 DISSENSUS
 DISSENTED <dissent=v> [v]
-DISSENTER one that dissents (to disagree, to differ in opinion) [n, pl. -S]
+DISSENTER one that {dissents=v} [n -S]
 DISSERTED <dissert=v> [v]
 DISSERVED <disserve=v> [v]
 DISSERVES <disserve=v> [v]
@@ -87672,7 +87672,7 @@ ENTAMEBAE <entameba=n> [n]
 ENTAMEBAS <entameba=n> [n]
 ENTAMOEBA
 ENTANGLED <entangle=v> [v]
-ENTANGLER one that entangles (to tangle, to bring together in intricate confusion) [n, pl. -S]
+ENTANGLER one that {entangles=v} [n -S]
 ENTANGLES <entangle=v> [v]
 ENTELECHY
 ENTERABLE
@@ -87799,7 +87799,7 @@ EPITOMISE
 EPITOMIZE
 EPIZOISMS <epizoism=n> [n]
 EPIZOITES <epizoite=n> [n]
-EPIZOOTIC a disease affecting a large number of animals at the same time within a particular region [n, pl. -S]
+EPIZOOTIC a disease affecting a large number of animals at the same time within a particular region [n -S]
 EPOCHALLY
 EPONYMIES <eponymy=n> [n]
 EPONYMOUS
@@ -88082,7 +88082,7 @@ EXCERPTOR
 EXCESSING <excess=v> [v]
 EXCESSIVE
 EXCHANGED <exchange=v> [v]
-EXCHANGER one that exchanges (to give and receive reciprocally) [n, pl. -S]
+EXCHANGER one that {exchanges=v} [n -S]
 EXCHANGES <exchange=v> [v]
 EXCHEQUER
 EXCIPIENT
@@ -88743,9 +88743,9 @@ FLATLANDS <flatland=n> [n]
 FLATLINGS
 FLATMATES <flatmate=n> [n]
 FLATTENED <flatten=v> [v]
-FLATTENER one that flattens (to make or become flat, having a smooth or even surface) [n, pl. -S]
+FLATTENER one that {flattens=v} [n -S]
 FLATTERED <flatter=v> [v]
-FLATTERER one that flatters (to praise excessively) [n, pl. -S]
+FLATTERER one that {flatters=v} [n -S]
 FLATULENT
 FLATWARES <flatware=n> [n]
 FLATWORKS <flatwork=n> [n]
@@ -88872,7 +88872,7 @@ FLUSHNESS
 FLUSTERED <fluster=v> [v]
 FLUTELIKE
 FLUTTERED <flutter=v> [v]
-FLUTTERER one that flutters (to wave rapidly and irregularly) [n, pl. -S]
+FLUTTERER one that {flutters=v} [n -S]
 FLUXGATES <fluxgate=n> [n]
 FLUXIONAL
 FLYBRIDGE
@@ -88957,7 +88957,7 @@ FORCEMEAT
 FOREARMED <forearm=v> [v]
 FOREBEARS <forebear=n> [n]
 FOREBODED <forebode=v> [v]
-FOREBODER one that forebodes (to indicate in advance) [n, pl. -S]
+FOREBODER one that {forebodes=v} [n -S]
 FOREBODES <forebode=v> [v]
 FOREBOOMS <foreboom=n> [n]
 FOREBRAIN
@@ -89164,7 +89164,7 @@ FREQUENTS <frequent=v> [v]
 FRESCOERS <frescoer=n> [n]
 FRESCOING <fresco=v> [v]
 FRESHENED <freshen=v> [v]
-FRESHENER one that freshens (to make or become fresh, new, existing only a short time) [n, pl. -S]
+FRESHENER one that {freshens=v} [n -S]
 FRESHNESS
 FRETFULLY
 FRETTIEST <fretty=adj> [adj]
@@ -89187,7 +89187,7 @@ FRISETTES <frisette=n> [n]
 FRISKIEST <frisky=adj> [adj]
 FRITTATAS <frittata=n> [n]
 FRITTERED <fritter=v> [v]
-FRITTERER one that fritters (to squander little by little) [n, pl. -S]
+FRITTERER one that {fritters=v} [n -S]
 FRIVOLERS <frivoler=n> [n]
 FRIVOLING <frivol=v> [v]
 FRIVOLITY
@@ -89733,7 +89733,7 @@ GOITROGEN
 GOLCONDAS <golconda=n> [n]
 GOLDBRICK
 GOLDENEST <golden=adj> [adj]
-GOLDENEYE a diving duck [n, pl. -S]
+GOLDENEYE a diving duck [n -S]
 GOLDENROD
 GOLDFIELD
 GOLDFINCH
@@ -89769,7 +89769,7 @@ GORGONIZE
 GOSPELERS <gospeler=n> [n]
 GOSPELLER
 GOSSAMERS <gossamer=n> [n]
-GOSSAMERY resembling gossamer (a fine film of cobwebs) [adj]
+GOSSAMERY resembling {gossamer=n} [adj]
 GOSSIPERS <gossiper=n> [n]
 GOSSIPING <gossip=v> [v]
 GOSSIPPED <gossip=v> [v]
@@ -90349,7 +90349,7 @@ HEADWORDS <headword=n> [n]
 HEADWORKS <headwork=n> [n]
 HEALTHFUL
 HEALTHIER <healthy=adj> [adj]
-HEALTHILY HEALTHY, having good health [adv]
+HEALTHILY in a healthy manner [adv]
 HEARKENED <hearken=v> [v]
 HEARTACHE
 HEARTBEAT
@@ -90492,7 +90492,7 @@ HERONRIES <heronry=n> [n]
 HESITANCE
 HESITANCY
 HESITATED <hesitate=v> [v]
-HESITATER one that hesitates (to hold back in uncertainty) [n, pl. -S]
+HESITATER one that {hesitates=v} [n -S]
 HESITATES <hesitate=v> [v]
 HESSONITE
 HETERODOX
@@ -91009,7 +91009,7 @@ IMBROWNED <imbrown=v> [v]
 IMBRUTING <imbrute=v> [v]
 IMIDAZOLE
 IMITATING <imitate=v> [v]
-IMITATION the act of imitating (to behave in the same way as) [n, pl. -S]
+IMITATION the act of imitating [n -S]
 IMITATIVE
 IMITATORS <imitator=n> [n]
 IMMANENCE
@@ -91090,7 +91090,7 @@ IMPINGERS <impinger=n> [n]
 IMPINGING <impinge=v> [v]
 IMPIOUSLY
 IMPLANTED <implant=v> [v]
-IMPLANTER one that implants (to set securely) [n, pl. -S]
+IMPLANTER one that {implants=v} [n -S]
 IMPLEADED <implead=v> [v]
 IMPLEDGED <impledge=v> [v]
 IMPLEDGES <impledge=v> [v]
@@ -91191,7 +91191,7 @@ INCORPSES <incorpse=v> [v]
 INCORRECT
 INCORRUPT
 INCREASED <increase=v> [v]
-INCREASER one that increases (to make or become greater) [n, pl. -S]
+INCREASER one that {increases=v} [n -S]
 INCREASES <increase=v> [v]
 INCREMENT
 INCROSSED <incross=v> [v]
@@ -91357,7 +91357,7 @@ INHARMONY
 INHAULERS <inhauler=n> [n]
 INHERENCE
 INHERITED <inherit=v> [v]
-INHERITOR one that inherits (to receive by legal succession) [n, pl. -S]
+INHERITOR one that {inherits=v} [n -S]
 INHESIONS <inhesion=n> [n]
 INHIBITED <inhibit=v> [v]
 INHIBITOR
@@ -91454,7 +91454,7 @@ INSPIRERS <inspirer=n> [n]
 INSPIRING <inspire=v> [v]
 INSPIRITS <inspirit=v> [v]
 INSTALLED <install=v> [v]
-INSTALLER one that installs (to place in position for use) [n, pl. -S]
+INSTALLER one that {installs=v} [n -S]
 INSTANCED <instance=v> [v]
 INSTANCES <instance=v> [v]
 INSTANTER
@@ -91889,7 +91889,7 @@ JOLLITIES <jollity=n> [n]
 JONGLEURS <jongleur=n> [n]
 JOUNCIEST <jouncy=adj> [adj]
 JOURNEYED <journey=v> [v]
-JOURNEYER one that journeys (to travel, to go from one place to another) [n, pl. -S]
+JOURNEYER one that {journeys=v} [n -S]
 JOVIALITY
 JOYFULLER <joyful=adj> [adj]
 JOYLESSLY
@@ -91903,7 +91903,7 @@ JUBILANCE
 JUBILATED <jubilate=v> [v]
 JUBILATES <jubilate=v> [v]
 JUDDERING <judder=v> [v]
-JUDGEMENT judgment (an authoritative opinion) [n, pl. -S]
+JUDGEMENT {judgment=n} [n -S]
 JUDGESHIP
 JUDGMATIC
 JUDGMENTS <judgment=n> [n]
@@ -92014,7 +92014,7 @@ KEYSTROKE
 KHAMSEENS <khamseen=n> [n]
 KHEDIVIAL
 KIBBITZED <kibbitz=v> [v]
-KIBBITZER one that kibbitzes (kibitz, to meddle, to interest oneself in what is not one's concern) [n, pl. -S]
+KIBBITZER one that {kibbitzes=v} [n -S]
 KIBBITZES <kibbitz=v> [v]
 KIBBUTZIM <kibbutz=n> [n]
 KIBITZERS <kibitzer=n> [n]
@@ -92165,7 +92165,7 @@ LACKERING <lacker=v> [v]
 LACKEYING <lackey=v> [v]
 LACONISMS <laconism=n> [n]
 LACQUERED <lacquer=v> [v]
-LACQUERER one that lacquers (to coat with a glossy substance) [n, pl. -S]
+LACQUERER one that {lacquers=v} [n -S]
 LACQUEYED <lacquey=v> [v]
 LACRIMALS <lacrimal=n> [n]
 LACROSSES <lacrosse=n> [n]
@@ -92212,7 +92212,7 @@ LAMPBLACK
 LAMPERSES <lampers=n> [n]
 LAMPLIGHT
 LAMPOONED <lampoon=v> [v]
-LAMPOONER one that lampoons (to ridicule in a satirical composition) [n, pl. -S]
+LAMPOONER one that {lampoons=v} [n -S]
 LAMPPOSTS <lamppost=n> [n]
 LAMPSHELL
 LAMPYRIDS <lampyrid=n> [n]
@@ -93156,7 +93156,7 @@ MAYAPPLES <mayapple=n> [n]
 MAYBUSHES <maybush=n> [n]
 MAYFLOWER
 MAYORALTY
-MAZAEDIUM a spore-producing organ of certain lichens [n, pl. -DIA]
+MAZAEDIUM a spore-producing organ of certain lichens [n -DIA]
 MAZOURKAS <mazourka=n> [n]
 MEALTIMES <mealtime=n> [n]
 MEALWORMS <mealworm=n> [n]
@@ -94219,7 +94219,7 @@ NAPHTHOLS <naphthol=n> [n]
 NAPHTHYLS <naphthyl=n> [n]
 NAPOLEONS <napoleon=n> [n]
 NARCEINES <narceine=n> [n]
-NARCISSUS a bulbous flowering plant [n, pl. -ISSUSES or -ISSI]
+NARCISSUS a bulbous flowering plant [n -ISSUSES or -ISSI]
 NARCOTICS <narcotic=n> [n]
 NARCOTIZE
 NARGHILES <narghile=n> [n]
@@ -94252,7 +94252,7 @@ NATURALLY
 NATURISMS <naturism=n> [n]
 NATURISTS <naturist=n> [n]
 NAUGHTIER <naughty=adj> [adj]
-NAUGHTILY in a naughty manner (disobedient) [adv]
+NAUGHTILY in a naughty manner [adv]
 NAUMACHIA
 NAUSEANTS <nauseant=n> [n]
 NAUSEATED <nauseate=v> [v]
@@ -94306,7 +94306,7 @@ NEGOTIANT
 NEGOTIATE
 NEGRITUDE
 NEIGHBORS <neighbor=v> [v]
-NEIGHBOUR neighbor (to live close to) [v, -ED, -ING, -S]
+NEIGHBOUR {neighbor=v} [v -ED, -ING, -S]
 NEMATODES <nematode=n> [n]
 NEMERTEAN
 NEMERTINE
@@ -94359,7 +94359,7 @@ NEUROLOGY
 NEUROMATA <neuroma=n> [n]
 NEUROTICS <neurotic=n> [n]
 NEUTERING <neuter=v> [v]
-NEUTRALLY in a neutral manner (impartial) [adv]
+NEUTRALLY in a neutral manner [adv]
 NEUTRINOS <neutrino=n> [n]
 NEUTRONIC
 NEVERMORE
@@ -94438,7 +94438,7 @@ NITRATION
 NITRATORS <nitrator=n> [n]
 NITRIDING <nitride=v> [v]
 NITRIFIED <nitrify=v> [v]
-NITRIFIER one that nitrifies (to combine with nitrogen) [n, pl. -S]
+NITRIFIER one that {nitrifies=v} [n -S]
 NITRIFIES <nitrify=v> [v]
 NITROGENS <nitrogen=n> [n]
 NITROSYLS <nitrosyl=n> [n]
@@ -94666,7 +94666,7 @@ NOTOCHORD
 NOTORIETY
 NOTORIOUS
 NOURISHED <nourish=v> [v]
-NOURISHER one that nourishes (to sustain with food) [n, pl. -S]
+NOURISHER one that {nourishes=v} [n -S]
 NOURISHES <nourish=v> [v]
 NOVATIONS <novation=n> [n]
 NOVELETTE
@@ -94694,7 +94694,7 @@ NUCLEONIC
 NUCLEUSES <nucleus=n> [n]
 NUISANCES <nuisance=n> [n]
 NULLIFIED <nullify=v> [v]
-NULLIFIER one that nullifies (to make useless or ineffective) [n, pl. -S]
+NULLIFIER one that {nullifies=v} [n -S]
 NULLIFIES <nullify=v> [v]
 NULLITIES <nullity=n> [n]
 NUMBERERS <numberer=n> [n]
@@ -95971,7 +95971,7 @@ PATRIMONY
 PATRIOTIC
 PATRISTIC
 PATROLLED <patrol=v> [v]
-PATROLLER one that patrols (to pass through an area for the purposes of observation or security) [n, pl. -S]
+PATROLLER one that {patrols=v} [n -S]
 PATROLMAN
 PATROLMEN
 PATRONAGE
@@ -96138,7 +96138,7 @@ PEPTIZING <peptize=v> [v]
 PERBORATE
 PERCALINE
 PERCEIVED <perceive=v> [v]
-PERCEIVER one that perceives (to become aware of through the senses) [n, pl. -S]
+PERCEIVER one that {perceives=v} [n -S]
 PERCEIVES <perceive=v> [v]
 PERCHANCE
 PERCOLATE
@@ -96586,7 +96586,7 @@ PLASMATIC
 PLASMODIA
 PLASMOIDS <plasmoid=n> [n]
 PLASTERED <plaster=v> [v]
-PLASTERER one that plasters (to cover with plaster, a mixture of lime, sand, and water) [n, pl. -S]
+PLASTERER one that {plasters=v} [n -S]
 PLASTICKY
 PLASTISOL
 PLASTRONS <plastron=n> [n]
@@ -96673,7 +96673,7 @@ PLUMMIEST <plummy=adj> [adj]
 PLUMPENED <plumpen=v> [v]
 PLUMPNESS
 PLUNDERED <plunder=v> [v]
-PLUNDERER one that plunders (to rob of goods by force) [n, pl. -S]
+PLUNDERER one that {plunders=v} [n -S]
 PLURALISM
 PLURALIST
 PLURALITY
@@ -96849,7 +96849,7 @@ PORTLIEST <portly=adj> [adj]
 PORTRAITS <portrait=n> [n]
 PORTRAYAL
 PORTRAYED <portray=v> [v]
-PORTRAYER one that portrays (to represent pictorially) [n, pl. -S]
+PORTRAYER one that {portrays=v} [n -S]
 PORTULACA
 POSITIONS <position=v> [v]
 POSITIVER <positive=adj> [adj]
@@ -97165,7 +97165,7 @@ PRETASTED <pretaste=v> [v]
 PRETASTES <pretaste=v> [v]
 PRETENCES <pretence=n> [n]
 PRETENDED <pretend=v> [v]
-PRETENDER one that pretends (to assume or display a false appearance of) [n, pl. -S]
+PRETENDER one that {pretends=v} [n -S]
 PRETENSES <pretense=n> [n]
 PRETERITE
 PRETERITS <preterit=n> [n]
@@ -97570,7 +97570,7 @@ PUPPYDOMS <puppydom=n> [n]
 PUPPYHOOD
 PUPPYLIKE
 PURCHASED <purchase=v> [v]
-PURCHASER one that purchases (to acquire by the payment of money) [n, pl. -S]
+PURCHASER one that {purchases=v} [n -S]
 PURCHASES <purchase=v> [v]
 PUREBLOOD
 PUREBREDS <purebred=n> [n]
@@ -97655,7 +97655,7 @@ QUACKISMS <quackism=n> [n]
 QUADRANTS <quadrant=n> [n]
 QUADRATED <quadrate=v> [v]
 QUADRATES <quadrate=v> [v]
-QUADRATIC a type of mathematical function [n, pl. -S]
+QUADRATIC a type of mathematical function [n -S]
 QUADRIGAE <quadriga=n> [n]
 QUADRILLE
 QUADROONS <quadroon=n> [n]
@@ -97667,7 +97667,7 @@ QUAGGIEST <quaggy=adj> [adj]
 QUAGMIRES <quagmire=n> [n]
 QUAINTEST <quaint=adj> [adj]
 QUALIFIED <qualify=v> [v]
-QUALIFIER one that qualifies (to make suitable or capable) [n, pl. -S]
+QUALIFIER one that {qualifies=v} [n -S]
 QUALIFIES <qualify=v> [v]
 QUALITIES <quality=n> [n]
 QUALMIEST <qualmy=adj> [adj]
@@ -97676,11 +97676,11 @@ QUANDANGS <quandang=n> [n]
 QUANDONGS <quandong=n> [n]
 QUANTILES <quantile=n> [n]
 QUANTIZED <quantize=v> [v]
-QUANTIZER one that quantizes (to limit the possible values of to a discrete set) [n, pl. -S]
+QUANTIZER one that {quantizes=v} [n -S]
 QUANTIZES <quantize=v> [v]
 QUANTONGS <quantong=n> [n]
 QUARRELED <quarrel=v> [v]
-QUARRELER one that quarrels (to engage in an angry dispute) [n, pl. -S]
+QUARRELER one that {quarrels=v} [n -S]
 QUARRIERS <quarrier=n> [n]
 QUARRYING <quarry=v> [v]
 QUARRYMAN
@@ -97715,7 +97715,7 @@ QUETZALES <quetzal=n> [n]
 QUIBBLERS <quibbler=n> [n]
 QUIBBLING <quibble=v> [v]
 QUICKENED <quicken=v> [v]
-QUICKENER one that quickens (to speed up) [n, pl. -S]
+QUICKENER one that {quickens=v} [n -S]
 QUICKLIME
 QUICKNESS
 QUICKSAND
@@ -97985,7 +97985,7 @@ REBOOTING <reboot=v> [v]
 REBOTTLED <rebottle=v> [v]
 REBOTTLES <rebottle=v> [v]
 REBOUNDED <rebound=v> [v]
-REBOUNDER one that rebounds (to spring back) [n, pl. -S]
+REBOUNDER one that {rebounds=v} [n -S]
 REBUFFING <rebuff=v> [v]
 REBUILDED <rebuild=v> [v]
 REBURIALS <reburial=n> [n]
@@ -98722,7 +98722,7 @@ RESAMPLES <resample=v> [v]
 RESCALING <rescale=v> [v]
 RESCHOOLS <reschool=v> [v]
 RESCINDED <rescind=v> [v]
-RESCINDER one that rescinds (to annul, to make or declare void or invalid) [n, pl. -S]
+RESCINDER one that {rescinds=v} [n -S]
 RESCORING <rescore=v> [v]
 RESCREENS <rescreen=v> [v]
 RESCRIPTS <rescript=n> [n]
@@ -99074,7 +99074,7 @@ RIDGELING
 RIDGEPOLE
 RIDGLINGS <ridgling=n> [n]
 RIDICULED <ridicule=v> [v]
-RIDICULER one that ridicules (to make fun of) [n, pl. -S]
+RIDICULER one that {ridicules=v} [n -S]
 RIDICULES <ridicule=v> [v]
 RIESLINGS <riesling=n> [n]
 RIFAMPINS <rifampin=n> [n]
@@ -99145,7 +99145,7 @@ ROCKABYES <rockabye=n> [n]
 ROCKAWAYS <rockaway=n> [n]
 ROCKBOUND
 ROCKERIES <rockery=n> [n]
-ROCKETEER one that fires, pilots, or rides in a rocket (a device propelled by the reaction of escaping gases) [n, pl. -S]
+ROCKETEER one that fires, pilots, or rides in a rocket [n -S]
 ROCKETERS <rocketer=n> [n]
 ROCKETING <rocket=v> [v]
 ROCKFALLS <rockfall=n> [n]
@@ -99160,7 +99160,7 @@ ROGATIONS <rogation=n> [n]
 ROGUERIES <roguery=n> [n]
 ROGUISHLY
 ROISTERED <roister=v> [v]
-ROISTERER one that roisters (to revel, to engage in revelry, noisy merrymaking) [n, pl. -S]
+ROISTERER one that {roisters=v} [n -S]
 ROLAMITES <rolamite=n> [n]
 ROLLBACKS <rollback=n> [n]
 ROLLICKED <rollick=v> [v]
@@ -99472,7 +99472,7 @@ SASSWOODS <sasswood=n> [n]
 SATANISMS <satanism=n> [n]
 SATANISTS <satanist=n> [n]
 SATELLITE
-SATIATING SATIATE, to satisfy to or beyond capacity [v]
+SATIATING
 SATIATION
 SATIETIES <satiety=n> [n]
 SATINPODS <satinpod=n> [n]
@@ -99498,7 +99498,7 @@ SAUCEBOAT
 SAUCEPANS <saucepan=n> [n]
 SAUCINESS
 SAUNTERED <saunter=v> [v]
-SAUNTERER one that saunters (to walk in a leisurely manner) [n, pl. -S]
+SAUNTERER one that {saunters=v} [n -S]
 SAUROPODS <sauropod=n> [n]
 SAUTERNES <sauterne=n> [n]
 SAUTOIRES <sautoire=n> [n]
@@ -99561,7 +99561,7 @@ SCARRIEST <scarry=adj> [adj]
 SCATBACKS <scatback=n> [n]
 SCATOLOGY
 SCATTERED <scatter=v> [v]
-SCATTERER one that scatters (to go or send in various directions) [n, pl. -S]
+SCATTERER one that {scatters=v} [n -S]
 SCATTIEST <scatty=adj> [adj]
 SCAVENGED <scavenge=v> [v]
 SCAVENGER
@@ -99590,7 +99590,7 @@ SCHLEPPED <schlep=v> [v]
 SCHLIEREN <schliere=n> [n]
 SCHLIERIC
 SCHLUMPED <schlump=v> [v]
-SCHMALTZY characterized by schmaltz (excessive sentimentality) [adj, SCHMALTZIER, SCHMALTZIEST]
+SCHMALTZY characterized by schmaltz [adj SCHMALTZIER, SCHMALTZIEST]
 SCHMALZES <schmalz=n> [n]
 SCHMEERED <schmeer=v> [v]
 SCHMELZES <schmelze=n> [n]
@@ -99698,7 +99698,7 @@ SCRAPPILY
 SCRAPPING <scrap=v> [v]
 SCRAPPLES <scrapple=n> [n]
 SCRATCHED <scratch=v> [v]
-SCRATCHER one that scratches (to make a thin, shallow cut or mark on) [n, pl. -S]
+SCRATCHER one that {scratches=v} [n -S]
 SCRATCHES <scratch=v> [v]
 SCRAWLERS <scrawler=n> [n]
 SCRAWLIER <scrawly=adj> [adj]
@@ -100069,7 +100069,7 @@ SHAKINESS
 SHALLOONS <shalloon=n> [n]
 SHALLOWED <shallow=v> [v]
 SHALLOWER <shallow=adj> [adj]
-SHALLOWLY in a shallow manner (having little depth) [adv]
+SHALLOWLY in a shallow manner [adv]
 SHAMANISM
 SHAMANIST
 SHAMBLING <shamble=v> [v]
@@ -100221,7 +100221,7 @@ SHORTAGES <shortage=n> [n]
 SHORTCAKE
 SHORTCUTS <shortcut=v> [v]
 SHORTENED <shorten=v> [v]
-SHORTENER one that shortens (to make or become shorter, having little length) [n, pl. -S]
+SHORTENER one that {shortens=v} [n -S]
 SHORTFALL
 SHORTHAIR
 SHORTHAND
@@ -100449,7 +100449,7 @@ SKEPSISES <skepsis=n> [n]
 SKEPTICAL
 SKETCHERS <sketcher=n> [n]
 SKETCHIER <sketchy=adj> [adj]
-SKETCHILY in a sketchy manner (lacking in completeness or clearness) [adv]
+SKETCHILY in a sketchy manner [adv]
 SKETCHING <sketch=v> [v]
 SKEWBACKS <skewback=n> [n]
 SKEWBALDS <skewbald=n> [n]
@@ -100499,7 +100499,7 @@ SLACKNESS
 SLAGGIEST <slaggy=adj> [adj]
 SLALOMING <slalom=v> [v]
 SLANDERED <slander=v> [v]
-SLANDERER one that slanders (to defame, to attack the good name of) [n, pl. -S]
+SLANDERER one that {slanders=v} [n -S]
 SLANGIEST <slangy=adj> [adj]
 SLANGUAGE
 SLANTWAYS
@@ -100535,7 +100535,7 @@ SLEEVELET
 SLEIGHERS <sleigher=n> [n]
 SLEIGHING <sleigh=v> [v]
 SLENDERER <slender=adj> [adj]
-SLENDERLY in a slender manner (thin, having relatively little density or thickness) [adv]
+SLENDERLY in a slender manner [adv]
 SLEUTHING <sleuth=v> [v]
 SLICEABLE
 SLICKNESS
@@ -100610,7 +100610,7 @@ SMARTENED <smarten=v> [v]
 SMARTNESS
 SMARTWEED
 SMATTERED <smatter=v> [v]
-SMATTERER one that smatters (to speak with little knowledge) [n, pl. -S]
+SMATTERER one that {smatters=v} [n -S]
 SMEARCASE
 SMEARIEST <smeary=adj> [adj]
 SMECTITES <smectite=n> [n]
@@ -100691,7 +100691,7 @@ SNOOTIEST <snooty=adj> [adj]
 SNOOZIEST <snoozy=adj> [adj]
 SNOOZLING <snoozle=v> [v]
 SNORKELED <snorkel=v> [v]
-SNORKELER one that snorkels (to swim underwater with a type of breathing device) [n, pl. -S]
+SNORKELER one that {snorkels=v} [n -S]
 SNOTTIEST <snotty=adj> [adj]
 SNOUTIEST <snouty=adj> [adj]
 SNOWBALLS <snowball=v> [v]
@@ -100774,7 +100774,7 @@ SOFTWOODS <softwood=n> [n]
 SOGGINESS
 SOILBORNE
 SOJOURNED <sojourn=v> [v]
-SOJOURNER one that sojourns (to stay temporarily) [n, pl. -S]
+SOJOURNER one that {sojourns=v} [n -S]
 SOLANDERS <solander=n> [n]
 SOLANINES <solanine=n> [n]
 SOLARISED <solarise=v> [v]
@@ -100859,7 +100859,7 @@ SOPPINESS
 SOPRANINO
 SORBITOLS <sorbitol=n> [n]
 SORCERERS <sorcerer=n> [n]
-SORCERESS a female sorcerer (one who practices sorcery, alleged use of supernatural powers) [n, pl. -ES]
+SORCERESS a female {sorcerer=n} [n -ES]
 SORCERIES <sorcery=n> [n]
 SORCEROUS
 SOREHEADS <sorehead=n> [n]
@@ -101235,7 +101235,7 @@ STAGELIKE
 STAGGARDS <staggard=n> [n]
 STAGGARTS <staggart=n> [n]
 STAGGERED <stagger=v> [v]
-STAGGERER one that staggers (to walk or stand unsteadily) [n, pl. -S]
+STAGGERER one that {staggers=v} [n -S]
 STAGGIEST <staggy=adj> [adj]
 STAGHOUND
 STAGINESS
@@ -101358,7 +101358,7 @@ STEMWARES <stemware=n> [n]
 STENCHFUL
 STENCHIER <stenchy=adj> [adj]
 STENCILED <stencil=v> [v]
-STENCILER one that stencils (to mark by means of a perforated sheet of material) [n, pl. -S]
+STENCILER one that {stencils=v} [n -S]
 STENOKIES <stenoky=n> [n]
 STENOTYPE
 STENOTYPY
@@ -101450,7 +101450,7 @@ STOLIDEST <stolid=adj> [adj]
 STOLIDITY
 STOLPORTS <stolport=n> [n]
 STOMACHED <stomach=v> [v]
-STOMACHER the center front section of a waist or underwaist [n, pl. -S]
+STOMACHER the center front section of a waist or underwaist [n -S]
 STOMACHIC
 STOMODAEA
 STOMODEAL
@@ -101488,7 +101488,7 @@ STOUTNESS
 STOVEPIPE
 STOWAWAYS <stowaway=n> [n]
 STRADDLED <straddle=v> [v]
-STRADDLER one that straddles (to sit, stand, or walk with the legs wide apart) [n, pl. -S]
+STRADDLER one that {straddles=v} [n -S]
 STRADDLES <straddle=v> [v]
 STRAGGLED <straggle=v> [v]
 STRAGGLER
@@ -101561,7 +101561,7 @@ STRIPPERS <stripper=n> [n]
 STRIPPING <strip=v> [v]
 STROBILAE <strobila=n> [n]
 STROBILES <strobile=n> [n]
-STROBILUS strobile (the conical, multiple fruit of certain trees) [n, pl. -LI]
+STROBILUS {strobile=n} [n -LI]
 STROLLERS <stroller=n> [n]
 STROLLING <stroll=v> [v]
 STRONGBOX
@@ -101970,7 +101970,7 @@ SUPPLIANT
 SUPPLIERS <supplier=n> [n]
 SUPPLYING <supply=v> [v]
 SUPPORTED <support=v> [v]
-SUPPORTER one that supports (to hold up or add strength to) [n, pl. -S]
+SUPPORTER one that {supports=v} [n -S]
 SUPPOSALS <supposal=n> [n]
 SUPPOSERS <supposer=n> [n]
 SUPPOSING <suppose=v> [v]
@@ -102040,7 +102040,7 @@ SUZERAINS <suzerain=n> [n]
 SVEDBERGS <svedberg=n> [n]
 SWADDLING <swaddle=v> [v]
 SWAGGERED <swagger=v> [v]
-SWAGGERER one that swaggers (to walk with a pompous air) [n, pl. -S]
+SWAGGERER one that {swaggers=v} [n -S]
 SWALLOWED <swallow=v> [v]
 SWALLOWER
 SWAMPIEST <swampy=adj> [adj]
@@ -102660,7 +102660,7 @@ THRESHERS <thresher=n> [n]
 THRESHING <thresh=v> [v]
 THRESHOLD
 THRIFTIER <thrifty=adj> [adj]
-THRIFTILY in a thrifty manner (displaying thrift, care and wisdom in the management of one's resources) [adv]
+THRIFTILY in a thrifty manner [adv]
 THRILLERS <thriller=n> [n]
 THRILLING <thrill=v> [v]
 THROATIER <throaty=adj> [adj]
@@ -102815,7 +102815,7 @@ TOLERABLY
 TOLERANCE
 TOLERATED <tolerate=v> [v]
 TOLERATES <tolerate=v> [v]
-TOLERATOR one that tolerates (to allow without active opposition) [n, pl. -S]
+TOLERATOR one that {tolerates=v} [n -S]
 TOLIDINES <tolidine=n> [n]
 TOLLBOOTH
 TOLLGATES <tollgate=n> [n]
@@ -103040,7 +103040,7 @@ TRAVAILED <travail=v> [v]
 TRAVELERS <traveler=n> [n]
 TRAVELING <travel=v> [v]
 TRAVELLED <travel=v> [v]
-TRAVELLER one that travels (to go from one place to another) [n, pl. -S]
+TRAVELLER one that {travels=v} [n -S]
 TRAVELOGS <travelog=n> [n]
 TRAVERSAL
 TRAVERSED <traverse=v> [v]
@@ -103157,7 +103157,7 @@ TRIMOTORS <trimotor=n> [n]
 TRINDLING <trindle=v> [v]
 TRINITIES <trinity=n> [n]
 TRINKETED <trinket=v> [v]
-TRINKETER one that trinkets (to deal secretly) [n, pl. -S]
+TRINKETER one that {trinkets=v} [n -S]
 TRINKETRY
 TRINOMIAL
 TRIOXIDES <trioxide=n> [n]
@@ -104460,7 +104460,7 @@ VIVIFIERS <vivifier=n> [n]
 VIVIFYING <vivify=v> [v]
 VIVISECTS <vivisect=v> [v]
 VIZCACHAS <vizcacha=n> [n]
-VIZIERATE the office of a vizier (a high official in some Muslim countries) [n, pl. -S]
+VIZIERATE the office of a vizier [n -S]
 VIZIERIAL
 VIZIRATES <vizirate=n> [n]
 VOCABULAR
@@ -104660,7 +104660,7 @@ WEAKLIEST <weakly=adj> [adj]
 WEAKLINGS <weakling=n> [n]
 WEAKSIDES <weakside=n> [n]
 WEALTHIER <wealthy=adj> [adj]
-WEALTHILY in a wealthy manner (having wealth, a great quantity of valuable material) [adv]
+WEALTHILY in a wealthy manner [adv]
 WEANLINGS <weanling=n> [n]
 WEAPONING <weapon=v> [v]
 WEARABLES <wearable=n> [n]
@@ -105095,7 +105095,7 @@ YTTERBIUM
 YULETIDES <yuletide=n> [n]
 ZABAIONES <zabaione=n> [n]
 ZABAJONES <zabajone=n> [n]
-ZAMINDARI the system of tax collection by zamindars (a tax collector in precolonial India) [n, pl. -S]
+ZAMINDARI the system of tax collection by zamindars [n -S]
 ZAMINDARS <zamindar=n> [n]
 ZAPATEADO
 ZARATITES <zaratite=n> [n]
@@ -105108,11 +105108,11 @@ ZEDOARIES <zedoary=n> [n]
 ZEITGEBER
 ZEITGEIST
 ZEMINDARS <zemindar=n> [n]
-ZEMINDARY zamindari (the system of tax collection by zamindars, a tax collector in precolonial India) [n, pl. -RIES]
+ZEMINDARY {zamindari=n} [n -RIES]
 ZEPPELINS <zeppelin=n> [n]
 ZESTFULLY
 ZIBELINES <zibeline=n> [n]
-ZIBELLINE zibeline (a soft fabric) [n, pl. -S]
+ZIBELLINE {zibeline=n} [n -S]
 ZIGGURATS <ziggurat=n> [n]
 ZIGZAGGED <zigzag=v> [v]
 ZIKKURATS <zikkurat=n> [n]
@@ -105324,7 +105324,7 @@ ACQUIESCES
 ACQUIRABLE
 ACQUISITOR
 ACQUITTALS
-ACQUITTERS ACQUITTER, one that acquits (to free or clear from a charge of fault or crime) [n, pl]
+ACQUITTERS <acquitter=n> [n]
 ACQUITTING <acquit=v> [v]
 ACRIDITIES <acridity=n> [n]
 ACRIMONIES <acrimony=n> [n]
@@ -105363,8 +105363,8 @@ ADDITIONAL
 ADDITIVELY
 ADDITIVITY
 ADDLEPATED
-ADDRESSEES ADDRESSEE, one that is addressed (to speak to) [n, pl]
-ADDRESSERS ADDRESSER, one that addresses (to speak to) [n, pl]
+ADDRESSEES <addressee=n> [n]
+ADDRESSERS <addresser=n> [n]
 ADDRESSING <address=v> [v]
 ADDUCTIONS
 ADENITISES <adenitis=n> [n]
@@ -106085,7 +106085,7 @@ APPOSITION
 APPOSITIVE
 APPRAISALS
 APPRAISEES
-APPRAISERS APPRAISER, one that appraises (to set a value on) [n, pl]
+APPRAISERS <appraiser=n> [n]
 APPRAISING <appraise=v> [v]
 APPRAISIVE
 APPRECIATE
@@ -106632,7 +106632,7 @@ BARRETRIES <barretry=n> [n]
 BARRICADED
 BARRICADES
 BARRISTERS
-BARTENDERS BARTENDER, one that bartends (to tend a barroom) [n, pl]
+BARTENDERS <bartender=n> [n]
 BARTENDING <bartend=v> [v]
 BASEBOARDS
 BASELINERS
@@ -106798,12 +106798,12 @@ BENGALINES
 BENIGNANCY
 BENTONITES
 BENTONITIC
-BENZIDINES BENZIDINE, a hydrocarbon [n, pl]
+BENZIDINES <benzidine=n> [n]
 BENZOCAINE
 BENZOFURAN
 BEPAINTING <bepaint=v> [v]
 BEPIMPLING <bepimple=v> [v]
-BEQUEATHAL an act of bequeathing (to grant by testament) [n, pl. -S]
+BEQUEATHAL an act of bequeathing [n -S]
 BEQUEATHED <bequeath=v> [v]
 BERASCALED <berascal=v> [v]
 BERBERINES
@@ -107030,7 +107030,7 @@ BLATANCIES <blatancy=n> [n]
 BLATHERERS
 BLATHERING <blather=v> [v]
 BLATTERING <blatter=v> [v]
-BLAZONINGS BLAZONING, a coat of arms [n, pl]
+BLAZONINGS
 BLAZONRIES <blazonry=n> [n]
 BLEACHABLE
 BLEARINESS
@@ -107085,7 +107085,7 @@ BLUESHIFTS
 BLUESTONES
 BLUETONGUE
 BLUISHNESS
-BLUNDERERS BLUNDERER, one that blunders (to make a mistake) [n, pl]
+BLUNDERERS <blunderer=n> [n]
 BLUNDERING <blunder=v> [v]
 BLURRINESS
 BLURRINGLY
@@ -107115,7 +107115,7 @@ BOLOMETERS
 BOLOMETRIC
 BOLSHEVISM
 BOLSHEVIZE
-BOLSTERERS BOLSTERER, one that bolsters (to support, to hold up or add strength to) [n, pl]
+BOLSTERERS <bolsterer=n> [n]
 BOLSTERING <bolster=v> [v]
 BOMBARDIER
 BOMBARDING <bombard=v> [v]
@@ -107724,7 +107724,7 @@ CASTIGATOR
 CASTOREUMS
 CASTRATING <castrate=v> [v]
 CASTRATION
-CASTRATORS CASTRATOR, one that castrates (to remove the testes of) [n, pl]
+CASTRATORS <castrator=n> [n]
 CASTRATORY
 CASUALNESS
 CASUALTIES <casualty=n> [n]
@@ -107781,7 +107781,7 @@ CATHARTICS
 CATHECTING <cathect=v> [v]
 CATHEDRALS
 CATHEPSINS
-CATHODALLY CATHODE, a negatively charged electrode [adv]
+CATHODALLY
 CATHOLICOI
 CATHOLICON
 CATHOLICOS
@@ -107959,7 +107959,7 @@ CHARLATANS
 CHARLOTTES
 CHARMEUSES
 CHARMINGER <charming=adj> [adj]
-CHARMINGLY in a charming manner (pleasing) [adv]
+CHARMINGLY in a charming manner [adv]
 CHARTERERS
 CHARTERING <charter=v> [v]
 CHARTREUSE
@@ -107977,7 +107977,7 @@ CHATOYANCE
 CHATOYANCY
 CHATOYANTS
 CHATTERBOX
-CHATTERERS CHATTERER, one that chatters (to talk rapidly and trivially) [n, pl]
+CHATTERERS <chatterer=n> [n]
 CHATTERING <chatter=v> [v]
 CHATTINESS
 CHAUFFEURS
@@ -108140,7 +108140,7 @@ CHUMMINESS
 CHUNTERING <chunter=v> [v]
 CHURCHGOER
 CHURCHIEST <churchy=adj> [adj]
-CHURCHINGS CHURCHING, the administration or reception of a rite of the church [n, pl]
+CHURCHINGS
 CHURCHLESS
 CHURCHLIER <churchly=adj> [adj]
 CHURCHYARD
@@ -108417,7 +108417,7 @@ COHERENTLY
 COHESIVELY
 COHOBATING <cohobate=v> [v]
 COHOMOLOGY
-COIFFEUSES COIFFEUSE, a female hairdresser [n, pl]
+COIFFEUSES <coiffeuse=n> [n]
 COIFFURING <coiffure=v> [v]
 COINCIDENT
 COINCIDING <coincide=v> [v]
@@ -108518,7 +108518,7 @@ COMBUSTORS
 COMEDIENNE
 COMELINESS
 COMESTIBLE
-COMFORTERS COMFORTER, one that comforts (to soothe in time of grief) [n, pl]
+COMFORTERS <comforter=n> [n]
 COMFORTING <comfort=v> [v]
 COMICALITY
 COMINGLING <comingle=v> [v]
@@ -108573,11 +108573,11 @@ COMMUTATED
 COMMUTATES
 COMMUTATOR
 COMONOMERS
-COMPACTERS COMPACTER, one that compacts (to pack closely together) [n, pl]
+COMPACTERS
 COMPACTEST <compact=adj> [adj]
 COMPACTING <compact=v> [v]
 COMPACTION
-COMPACTORS COMPACTOR, compacter (one that compacts, to pack closely together) [n, pl]
+COMPACTORS <compactor=n> [n]
 COMPANIONS
 COMPANYING <company=v> [v]
 COMPARABLE
@@ -108599,7 +108599,7 @@ COMPETENCY
 COMPETITOR
 COMPLACENT
 COMPLAINED <complain=v> [v]
-COMPLAINER one that complains (to express discontent) [n, pl. -S]
+COMPLAINER one that {complains=v} [n -S]
 COMPLAINTS
 COMPLECTED <complect=v> [v]
 COMPLEMENT
@@ -108719,7 +108719,7 @@ CONFERRERS
 CONFERRING <confer=v> [v]
 CONFESSING <confess=v> [v]
 CONFESSION
-CONFESSORS CONFESSOR, one that confesses (to acknowledge or disclose) [n, pl]
+CONFESSORS <confessor=n> [n]
 CONFIDANTE
 CONFIDANTS
 CONFIDENCE
@@ -108772,11 +108772,11 @@ CONJUGANTS
 CONJUGATED
 CONJUGATES
 CONNATURAL
-CONNECTERS CONNECTER, connector (one that connects, to join together) [n, pl]
+CONNECTERS <connecter=n> [n]
 CONNECTING <connect=v> [v]
 CONNECTION
 CONNECTIVE
-CONNECTORS CONNECTOR, one that connects (to join together) [n, pl]
+CONNECTORS <connector=n> [n]
 CONNEXIONS
 CONNIPTION
 CONNIVANCE
@@ -108846,7 +108846,7 @@ CONTENDING <contend=v> [v]
 CONTENTING <content=v> [v]
 CONTENTION
 CONTESTANT
-CONTESTERS CONTESTER, one that contests (to compete for) [n, pl]
+CONTESTERS <contester=n> [n]
 CONTESTING <contest=v> [v]
 CONTEXTUAL
 CONTEXTURE
@@ -109626,7 +109626,7 @@ DEFOLIATES
 DEFOLIATOR
 DEFORESTED <deforest=v> [v]
 DEFORMABLE
-DEFRAUDERS DEFRAUDER, one that defrauds (to swindle, to take money or property from by fraudulent means) [n, pl]
+DEFRAUDERS <defrauder=n> [n]
 DEFRAUDING <defraud=v> [v]
 DEFRAYABLE
 DEFROCKING <defrock=v> [v]
@@ -109873,7 +109873,7 @@ DESOLATING <desolate=v> [v]
 DESOLATION
 DESOLATORS
 DESORPTION
-DESPAIRERS DESPAIRER, one that despairs (to lose all hope) [n, pl]
+DESPAIRERS <despairer=n> [n]
 DESPAIRING <despair=v> [v]
 DESPATCHED <despatch=v> [v]
 DESPATCHES <despatch=v> [v]
@@ -110136,7 +110136,7 @@ DISCARDERS
 DISCARDING <discard=v> [v]
 DISCARNATE
 DISCEPTING <discept=v> [v]
-DISCERNERS DISCERNER, one that discerns (to perceive, to become aware of through the senses) [n, pl]
+DISCERNERS <discerner=n> [n]
 DISCERNING <discern=v> [v]
 DISCHARGED
 DISCHARGEE
@@ -110330,7 +110330,7 @@ DISSEMBLED
 DISSEMBLER
 DISSEMBLES
 DISSENSION
-DISSENTERS DISSENTER, one that dissents (to disagree, to differ in opinion) [n, pl]
+DISSENTERS <dissenter=n> [n]
 DISSENTING <dissent=v> [v]
 DISSENTION
 DISSERTATE
@@ -111019,7 +111019,7 @@ ENSWATHING <enswathe=v> [v]
 ENTAILMENT
 ENTAMOEBAE
 ENTAMOEBAS
-ENTANGLERS ENTANGLER, one that entangles (to tangle, to bring together in intricate confusion) [n, pl]
+ENTANGLERS <entangler=n> [n]
 ENTANGLING <entangle=v> [v]
 ENTELLUSES <entellus=n> [n]
 ENTEROCOEL
@@ -111152,7 +111152,7 @@ EPITOMISED
 EPITOMISES
 EPITOMIZED
 EPITOMIZES
-EPIZOOTICS EPIZOOTIC, a disease affecting a large number of animals at the same time within a particular region [n, pl]
+EPIZOOTICS <epizootic=n> [n]
 EPIZOOTIES <epizooty=n> [n]
 EPOXIDIZED
 EPOXIDIZES
@@ -111387,7 +111387,7 @@ EXCERPTERS
 EXCERPTING <excerpt=v> [v]
 EXCERPTION
 EXCERPTORS
-EXCHANGERS EXCHANGER, one that exchanges (to give and receive reciprocally) [n, pl]
+EXCHANGERS <exchanger=n> [n]
 EXCHANGING <exchange=v> [v]
 EXCHEQUERS
 EXCIPIENTS
@@ -111917,9 +111917,9 @@ FLATFISHES <flatfish=n> [n]
 FLATFOOTED <flatfoot=v> [v]
 FLATLANDER
 FLATNESSES <flatness=n> [n]
-FLATTENERS FLATTENER, one that flattens (to make or become flat, having a smooth or even surface) [n, pl]
+FLATTENERS <flattener=n> [n]
 FLATTENING <flatten=v> [v]
-FLATTERERS FLATTERER, one that flatters (to praise excessively) [n, pl]
+FLATTERERS <flatterer=n> [n]
 FLATTERIES <flattery=n> [n]
 FLATTERING <flatter=v> [v]
 FLATULENCE
@@ -112008,7 +112008,7 @@ FLUORINATE
 FLUORSPARS
 FLUOXETINE
 FLUSTERING <fluster=v> [v]
-FLUTTERERS FLUTTERER, one that flutters (to wave rapidly and irregularly) [n, pl]
+FLUTTERERS <flutterer=n> [n]
 FLUTTERING <flutter=v> [v]
 FLUVIATILE
 FLYBLOWING <flyblow=v> [v]
@@ -112053,7 +112053,7 @@ FORBIDDING <forbid=v> [v]
 FORCEFULLY
 FORCEMEATS
 FOREARMING <forearm=v> [v]
-FOREBODERS FOREBODER, one that forebodes (to indicate in advance) [n, pl]
+FOREBODERS <foreboder=n> [n]
 FOREBODIES <forebody=n> [n]
 FOREBODING <forebode=v> [v]
 FOREBRAINS
@@ -112102,7 +112102,7 @@ FORESTRIES <forestry=n> [n]
 FORESWEARS
 FORETASTED
 FORETASTES
-FORETELLER one that foretells (to tell of or about in advance) [n, pl. -S]
+FORETELLER one that {foretells=v} [n -S]
 FORETOKENS
 FORETOPMAN
 FORETOPMEN
@@ -112243,7 +112243,7 @@ FREQUENCES
 FREQUENTED <frequent=v> [v]
 FREQUENTER <frequent=adj> [adj]
 FREQUENTLY
-FRESHENERS FRESHENER, one that freshens (to make or become fresh, new, existing only a short time) [n, pl]
+FRESHENERS <freshener=n> [n]
 FRESHENING <freshen=v> [v]
 FRESHWATER
 FRIABILITY
@@ -112266,7 +112266,7 @@ FRIGORIFIC
 FRIPPERIES <frippery=n> [n]
 FRISKINESS
 FRITILLARY
-FRITTERERS FRITTERER, one that fritters (to squander little by little) [n, pl]
+FRITTERERS <fritterer=n> [n]
 FRITTERING <fritter=v> [v]
 FRIVOLLERS
 FRIVOLLING <frivol=v> [v]
@@ -112645,7 +112645,7 @@ GODMOTHERS
 GODPARENTS
 GOITROGENS
 GOLDBRICKS
-GOLDENEYES GOLDENEYE, a diving duck [n, pl]
+GOLDENEYES <goldeneye=n> [n]
 GOLDENNESS
 GOLDENRODS
 GOLDENSEAL
@@ -112999,7 +112999,7 @@ HARBORSIDE
 HARBOURING <harbour=v> [v]
 HARDBOARDS
 HARDCOVERS
-HARDENINGS HARDENING, sclerosis [n, pl]
+HARDENINGS
 HARDFISTED
 HARDHANDED
 HARDHEADED
@@ -113204,9 +113204,9 @@ HERRENVOLK
 HERSTORIES <herstory=n> [n]
 HESITANCES
 HESITANTLY
-HESITATERS HESITATER, one that hesitates (to hold back in uncertainty) [n, pl]
+HESITATERS <hesitater=n> [n]
 HESITATING <hesitate=v> [v]
-HESITATION the act of one that hesitates (to hold back in uncertainty) [n, pl. -S]
+HESITATION the act of one that hesitates [n -S]
 HESPERIDIA
 HESPERIDIN
 HESSONITES
@@ -113692,7 +113692,7 @@ IMBROGLIOS
 IMBROWNING <imbrown=v> [v]
 IMIDAZOLES
 IMIPRAMINE
-IMITATIONS IMITATION, the act of imitating (to behave in the same way as) [n, pl]
+IMITATIONS <imitation=n> [n]
 IMMACULACY
 IMMACULATE
 IMMANENCES
@@ -113773,7 +113773,7 @@ IMPETRATES
 IMPISHNESS
 IMPLACABLE
 IMPLACABLY
-IMPLANTERS IMPLANTER, one that implants (to set securely) [n, pl]
+IMPLANTERS <implanter=n> [n]
 IMPLANTING <implant=v> [v]
 IMPLEADING <implead=v> [v]
 IMPLEDGING <impledge=v> [v]
@@ -113900,7 +113900,7 @@ INCOMMODES
 INCOMPLETE
 INCONSTANT
 INCORPSING <incorpse=v> [v]
-INCREASERS INCREASER, one that increases (to make or become greater) [n, pl]
+INCREASERS <increaser=n> [n]
 INCREASING <increase=v> [v]
 INCREDIBLE
 INCREDIBLY
@@ -114080,8 +114080,8 @@ INHARMONIC
 INHERENCES
 INHERENTLY
 INHERITING <inherit=v> [v]
-INHERITORS INHERITOR, one that inherits (to receive by legal succession) [n, pl]
-INHERITRIX inheritress (a female inheritor, one that inherits, to receive by legal succession) [n, pl. -TRIXES or -TRICES]
+INHERITORS <inheritor=n> [n]
+INHERITRIX {inheritress=n} [n -TRIXES or -TRICES]
 INHIBITING <inhibit=v> [v]
 INHIBITION
 INHIBITIVE
@@ -114196,7 +114196,7 @@ INSPHERING <insphere=v> [v]
 INSPIRATOR
 INSPIRITED <inspirit=v> [v]
 INSPISSATE
-INSTALLERS INSTALLER, one that installs (to place in position for use) [n, pl]
+INSTALLERS <installer=n> [n]
 INSTALLING <install=v> [v]
 INSTALMENT
 INSTANCIES <instancy=n> [n]
@@ -114625,7 +114625,7 @@ JOURNALESE
 JOURNALISM
 JOURNALIST
 JOURNALIZE
-JOURNEYERS JOURNEYER, one that journeys (to travel, to go from one place to another) [n, pl]
+JOURNEYERS <journeyer=n> [n]
 JOURNEYING <journey=v> [v]
 JOURNEYMAN
 JOURNEYMEN
@@ -114641,7 +114641,7 @@ JUBILANTLY
 JUBILARIAN
 JUBILATING <jubilate=v> [v]
 JUBILATION
-JUDGEMENTS JUDGEMENT, judgment (an authoritative opinion) [n, pl]
+JUDGEMENTS <judgement=n> [n]
 JUDGESHIPS
 JUDGMENTAL
 JUDICATORY
@@ -114706,7 +114706,7 @@ KEYPUNCHER
 KEYPUNCHES <keypunch=v> [v]
 KEYSTROKED
 KEYSTROKES
-KIBBITZERS KIBBITZER, one that kibbitzes (kibitz, to meddle, to interest oneself in what is not one's concern) [n, pl]
+KIBBITZERS <kibbitzer=n> [n]
 KIBBITZING <kibbitz=v> [v]
 KIBBUTZNIK
 KICKBOARDS
@@ -114785,7 +114785,7 @@ LACERATIVE
 LACHRYMOSE
 LACINESSES <laciness=n> [n]
 LACKLUSTER
-LACQUERERS LACQUERER, one that lacquers (to coat with a glossy substance) [n, pl]
+LACQUERERS <lacquerer=n> [n]
 LACQUERING <lacquer=v> [v]
 LACQUEYING <lacquey=v> [v]
 LACRIMATOR
@@ -114816,7 +114816,7 @@ LAMINATION
 LAMINATORS
 LAMPBLACKS
 LAMPLIGHTS
-LAMPOONERS LAMPOONER, one that lampoons (to ridicule in a satirical composition) [n, pl]
+LAMPOONERS <lampooner=n> [n]
 LAMPOONERY
 LAMPOONING <lampoon=v> [v]
 LAMPSHELLS
@@ -115444,7 +115444,7 @@ MARIONETTE
 MARKEDNESS
 MARKETABLE
 MARKETEERS
-MARKETINGS MARKETING, the act or process of selling or purchasing in a market [n, pl]
+MARKETINGS
 MARKSWOMAN
 MARKSWOMEN
 MARLSTONES
@@ -116583,7 +116583,7 @@ NEGRITUDES
 NEGROPHOBE
 NEIGHBORED <neighbor=v> [v]
 NEIGHBORLY
-NEIGHBOURS NEIGHBOUR, neighbor (to live close to) [v]
+NEIGHBOURS <neighbour=v> [v]
 NEMATICIDE
 NEMATOCIDE
 NEMATOCYST
@@ -116700,7 +116700,7 @@ NITPICKERS
 NITPICKIER <nitpicky=adj> [adj]
 NITPICKING <nitpick=v> [v]
 NITRATIONS
-NITRIFIERS NITRIFIER, one that nitrifies (to combine with nitrogen) [n, pl]
+NITRIFIERS <nitrifier=n> [n]
 NITRIFYING <nitrify=v> [v]
 NITROFURAN
 NOBILITIES <nobility=n> [n]
@@ -116922,7 +116922,7 @@ NOTICEABLY
 NOTIFIABLE
 NOTIONALLY
 NOTOCHORDS
-NOURISHERS NOURISHER, one that nourishes (to sustain with food) [n, pl]
+NOURISHERS <nourisher=n> [n]
 NOURISHING <nourish=v> [v]
 NOVACULITE
 NOVELETTES
@@ -116942,7 +116942,7 @@ NUCLEOSOME
 NUCLEOTIDE
 NUDENESSES <nudeness=n> [n]
 NUDIBRANCH
-NULLIFIERS NULLIFIER, one that nullifies (to make useless or ineffective) [n, pl]
+NULLIFIERS <nullifier=n> [n]
 NULLIFYING <nullify=v> [v]
 NUMBERABLE
 NUMBERLESS
@@ -118010,7 +118010,7 @@ PATRICIDAL
 PATRICIDES
 PATRIOTISM
 PATRISTICS
-PATROLLERS PATROLLER, one that patrols (to pass through an area for the purposes of observation or security) [n, pl]
+PATROLLERS <patroller=n> [n]
 PATROLLING <patrol=v> [v]
 PATRONAGES
 PATRONISED
@@ -118137,7 +118137,7 @@ PEPSINOGEN
 PEPTIDASES
 PERBORATES
 PERCALINES
-PERCEIVERS PERCEIVER, one that perceives (to become aware of through the senses) [n, pl]
+PERCEIVERS <perceiver=n> [n]
 PERCEIVING <perceive=v> [v]
 PERCENTAGE
 PERCENTILE
@@ -118546,7 +118546,7 @@ PLASMODESM
 PLASMODIUM
 PLASMOGAMY
 PLASMOLYZE
-PLASTERERS PLASTERER, one that plasters (to cover with plaster, a mixture of lime, sand, and water) [n, pl]
+PLASTERERS <plasterer=n> [n]
 PLASTERING <plaster=v> [v]
 PLASTICENE
 PLASTICINE
@@ -118600,7 +118600,7 @@ PLUGUGLIES <plugugly=n> [n]
 PLUMBERIES <plumbery=n> [n]
 PLUMMETING <plummet=v> [v]
 PLUMPENING <plumpen=v> [v]
-PLUNDERERS PLUNDERER, one that plunders (to rob of goods by force) [n, pl]
+PLUNDERERS <plunderer=n> [n]
 PLUNDERING <plunder=v> [v]
 PLUNDEROUS
 PLUPERFECT
@@ -118768,7 +118768,7 @@ PORTIONING <portion=v> [v]
 PORTLINESS
 PORTOBELLO
 PORTRAYALS
-PORTRAYERS PORTRAYER, one that portrays (to represent pictorially) [n, pl]
+PORTRAYERS <portrayer=n> [n]
 PORTRAYING <portray=v> [v]
 PORTRESSES <portress=n> [n]
 PORTULACAS
@@ -119104,7 +119104,7 @@ PRESUPPOSE
 PRESURGERY
 PRESWEETEN
 PRETASTING <pretaste=v> [v]
-PRETENDERS PRETENDER, one that pretends (to assume or display a false appearance of) [n, pl]
+PRETENDERS <pretender=n> [n]
 PRETENDING <pretend=v> [v]
 PRETENSION
 PRETERITES
@@ -119198,7 +119198,7 @@ PROCESSING <process=v> [v]
 PROCESSION
 PROCESSORS
 PROCLAIMED <proclaim=v> [v]
-PROCLAIMER one that proclaims (to make known publicly or officially) [n, pl. -S]
+PROCLAIMER one that {proclaims=v} [n -S]
 PROCLITICS
 PROCLIVITY
 PROCONSULS
@@ -119497,7 +119497,7 @@ PUPPETLIKE
 PUPPETRIES <puppetry=n> [n]
 PUPPYHOODS
 PURBLINDLY
-PURCHASERS PURCHASER, one that purchases (to acquire by the payment of money) [n, pl]
+PURCHASERS <purchaser=n> [n]
 PURCHASING <purchase=v> [v]
 PUREBLOODS
 PURENESSES <pureness=n> [n]
@@ -119560,7 +119560,7 @@ QUADPLEXES <quadplex=n> [n]
 QUADRANGLE
 QUADRANTAL
 QUADRANTES <quadrans=n> [n]
-QUADRATICS QUADRATIC, a type of mathematical function [n, pl]
+QUADRATICS <quadratic=n> [n]
 QUADRATING <quadrate=v> [v]
 QUADRATURE
 QUADRENNIA
@@ -119576,22 +119576,22 @@ QUADRUPLET
 QUADRUPOLE
 QUAGMIRIER <quagmiry=adj> [adj]
 QUAINTNESS
-QUALIFIERS QUALIFIER, one that qualifies (to make suitable or capable) [n, pl]
+QUALIFIERS <qualifier=n> [n]
 QUALIFYING <qualify=v> [v]
 QUALMISHLY
 QUANDARIES <quandary=n> [n]
 QUANTIFIED <quantify=v> [v]
-QUANTIFIER one that quantifies (to determine the quantity of) [n, pl. -S]
+QUANTIFIER one that {quantifies=v} [n -S]
 QUANTIFIES <quantify=v> [v]
 QUANTITATE
 QUANTITIES <quantity=n> [n]
-QUANTIZERS QUANTIZER, one that quantizes (to limit the possible values of to a discrete set) [n, pl]
+QUANTIZERS <quantizer=n> [n]
 QUANTIZING <quantize=v> [v]
 QUARANTINE
-QUARRELERS QUARRELER, one that quarrels (to engage in an angry dispute) [n, pl]
+QUARRELERS <quarreler=n> [n]
 QUARRELING <quarrel=v> [v]
 QUARRELLED <quarrel=v> [v]
-QUARRELLER one that quarrels (to engage in an angry dispute) [n, pl. -S]
+QUARRELLER one that {quarrels=v} [n -S]
 QUARRYINGS
 QUARTERAGE
 QUARTERING <quarter=v> [v]
@@ -119613,8 +119613,8 @@ QUERCETINS
 QUERCITRON
 QUESADILLA
 QUESTIONED <question=v> [v]
-QUESTIONER one that questions (to put a question, an inquiry, to [n, pl. -S]
-QUICKENERS QUICKENER, one that quickens (to speed up) [n, pl]
+QUESTIONER one that {questions=v} [n -S]
+QUICKENERS <quickener=n> [n]
 QUICKENING <quicken=v> [v]
 QUICKLIMES
 QUICKSANDS
@@ -119829,7 +119829,7 @@ REBLENDING <reblend=v> [v]
 REBLOOMING <rebloom=v> [v]
 REBOARDING <reboard=v> [v]
 REBOTTLING <rebottle=v> [v]
-REBOUNDERS REBOUNDER, one that rebounds (to spring back) [n, pl]
+REBOUNDERS <rebounder=n> [n]
 REBOUNDING <rebound=v> [v]
 REBRANCHED <rebranch=v> [v]
 REBRANCHES <rebranch=v> [v]
@@ -120205,7 +120205,7 @@ REITERATES
 REJACKETED <rejacket=v> [v]
 REJECTIONS
 REJIGGERED <rejigger=v> [v]
-REJOICINGS REJOICING, a joyful celebration [n, pl. -S]
+REJOICINGS
 REJOINDERS
 REJUGGLING <rejuggle=v> [v]
 REJUVENATE
@@ -120439,7 +120439,7 @@ RESALUTING <resalute=v> [v]
 RESAMPLING <resample=v> [v]
 RESCHEDULE
 RESCHOOLED <reschool=v> [v]
-RESCINDERS RESCINDER, one that rescinds (to annul, to make or declare void or invalid) [n, pl]
+RESCINDERS <rescinder=n> [n]
 RESCINDING <rescind=v> [v]
 RESCISSION
 RESCISSORY
@@ -120537,7 +120537,7 @@ RESTLESSLY
 RESTOCKING <restock=v> [v]
 RESTORABLE
 RESTRAINED <restrain=v> [v]
-RESTRAINER one that restrains (to hold back from action) [n, pl. -S]
+RESTRAINER one that {restrains=v} [n -S]
 RESTRAINTS
 RESTRESSED <restress=v> [v]
 RESTRESSES <restress=v> [v]
@@ -120712,7 +120712,7 @@ RIDERSHIPS
 RIDGELINES
 RIDGELINGS
 RIDGEPOLES
-RIDICULERS RIDICULER, one that ridicules (to make fun of) [n, pl]
+RIDICULERS <ridiculer=n> [n]
 RIDICULING <ridicule=v> [v]
 RIDICULOUS
 RIFAMPICIN
@@ -120761,12 +120761,12 @@ ROBOTIZING <robotize=v> [v]
 ROBUSTIOUS
 ROBUSTNESS
 ROCKABILLY
-ROCKETEERS ROCKETEER, one that fires, pilots, or rides in a rocket (a device propelled by the reaction of escaping gases) [n, pl]
+ROCKETEERS <rocketeer=n> [n]
 ROCKETRIES <rocketry=n> [n]
 ROCKFISHES <rockfish=n> [n]
 ROCKHOPPER
 ROCKSHAFTS
-ROISTERERS ROISTERER, one that roisters (to revel, to engage in revelry, noisy merrymaking) [n, pl]
+ROISTERERS <roisterer=n> [n]
 ROISTERING <roister=v> [v]
 ROISTEROUS
 ROLLICKING <rollick=v> [v]
@@ -121029,7 +121029,7 @@ SAUCEBOATS
 SAUCEBOXES <saucebox=n> [n]
 SAUCERLIKE
 SAUERKRAUT
-SAUNTERERS SAUNTERER, one that saunters (to walk in a leisurely manner) [n, pl]
+SAUNTERERS <saunterer=n> [n]
 SAUNTERING <saunter=v> [v]
 SAVAGENESS
 SAVAGERIES <savagery=n> [n]
@@ -121078,7 +121078,7 @@ SCARLATINA
 SCARPERING <scarper=v> [v]
 SCATHELESS
 SCATHINGLY
-SCATTERERS SCATTERER, one that scatters (to go or send in various directions) [n, pl]
+SCATTERERS <scatterer=n> [n]
 SCATTERGUN
 SCATTERING <scatter=v> [v]
 SCAVENGERS
@@ -121167,9 +121167,9 @@ SCRAMBLING <scramble=v> [v]
 SCRAPBOOKS
 SCRAPPAGES
 SCRAPPIEST <scrappy=adj> [adj]
-SCRATCHERS SCRATCHER, one that scratches (to make a thin, shallow cut or mark on) [n, pl]
+SCRATCHERS <scratcher=n> [n]
 SCRATCHIER <scratchy=adj> [adj]
-SCRATCHILY in a scratchy manner (made by scratching, to make a thin, shallow cut or mark on) [adv]
+SCRATCHILY in a scratchy manner [adv]
 SCRATCHING <scratch=v> [v]
 SCRAWLIEST <scrawly=adj> [adj]
 SCRAWNIEST <scrawny=adj> [adj]
@@ -121541,7 +121541,7 @@ SHORELINES
 SHOREWARDS
 SHORTBREAD
 SHORTCAKES
-SHORTENERS SHORTENER, one that shortens (to make or become shorter, having little length) [n, pl]
+SHORTENERS <shortener=n> [n]
 SHORTENING <shorten=v> [v]
 SHORTFALLS
 SHORTHAIRS
@@ -121722,7 +121722,7 @@ SKYWRITING <skywrite=v> [v]
 SKYWRITTEN <skywrite=v> [v]
 SLABBERING <slabber=v> [v]
 SLACKENING <slacken=v> [v]
-SLANDERERS SLANDERER, one that slanders (to defame, to attack the good name of) [n, pl]
+SLANDERERS <slanderer=n> [n]
 SLANDERING <slander=v> [v]
 SLANDEROUS
 SLANGINESS
@@ -121791,7 +121791,7 @@ SMARTASSES <smartass=n> [n]
 SMARTENING <smarten=v> [v]
 SMARTWEEDS
 SMASHINGLY
-SMATTERERS SMATTERER, one that smatters (to speak with little knowledge) [n, pl]
+SMATTERERS <smatterer=n> [n]
 SMATTERING <smatter=v> [v]
 SMEARCASES
 SMELTERIES <smeltery=n> [n]
@@ -121834,7 +121834,7 @@ SNOBBERIES <snobbery=n> [n]
 SNOBBISHLY
 SNOOKERING <snooker=v> [v]
 SNOOTINESS
-SNORKELERS SNORKELER, one that snorkels (to swim underwater with a type of breathing device) [n, pl]
+SNORKELERS <snorkeler=n> [n]
 SNORKELING <snorkel=v> [v]
 SNOTTINESS
 SNOWBALLED <snowball=v> [v]
@@ -121887,7 +121887,7 @@ SOFTCOVERS
 SOFTHEADED
 SOFTNESSES <softness=n> [n]
 SOFTSHELLS
-SOJOURNERS SOJOURNER, one that sojourns (to stay temporarily) [n, pl]
+SOJOURNERS <sojourner=n> [n]
 SOJOURNING <sojourn=v> [v]
 SOLACEMENT
 SOLARISING <solarise=v> [v]
@@ -122236,7 +122236,7 @@ STABLISHES <stablish=v> [v]
 STAGECOACH
 STAGECRAFT
 STAGEHANDS
-STAGGERERS STAGGERER, one that staggers (to walk or stand unsteadily) [n, pl]
+STAGGERERS <staggerer=n> [n]
 STAGGERING <stagger=v> [v]
 STAGHOUNDS
 STAGNANTLY
@@ -122317,10 +122317,10 @@ STELLIFIED <stellify=v> [v]
 STELLIFIES <stellify=v> [v]
 STEMMERIES <stemmery=n> [n]
 STENCHIEST <stenchy=adj> [adj]
-STENCILERS STENCILER, one that stencils (to mark by means of a perforated sheet of material) [n, pl]
+STENCILERS <stenciler=n> [n]
 STENCILING <stencil=v> [v]
 STENCILLED <stencil=v> [v]
-STENCILLER one that stencils (to mark by means of a perforated sheet of material) [n, pl. -S]
+STENCILLER one that {stencils=v} [n -S]
 STENOTHERM
 STENOTOPIC
 STENOTYPED
@@ -122397,7 +122397,7 @@ STOCKROOMS
 STOCKYARDS
 STODGINESS
 STOKEHOLDS
-STOMACHERS STOMACHER, the center front section of a waist or underwaist [n, pl]
+STOMACHERS <stomacher=n> [n]
 STOMACHICS
 STOMACHING <stomach=v> [v]
 STOMATITIS
@@ -122431,7 +122431,7 @@ STOUTENING <stouten=v> [v]
 STOVEPIPES
 STRABISMIC
 STRABISMUS
-STRADDLERS STRADDLER, one that straddles (to sit, stand, or walk with the legs wide apart) [n, pl]
+STRADDLERS <straddler=n> [n]
 STRADDLING <straddle=v> [v]
 STRAGGLERS
 STRAGGLIER <straggly=adj> [adj]
@@ -122900,7 +122900,7 @@ SUPPLIANCE
 SUPPLIANTS
 SUPPLICANT
 SUPPLICATE
-SUPPORTERS SUPPORTER, one that supports (to hold up or add strength to) [n, pl]
+SUPPORTERS <supporter=n> [n]
 SUPPORTING <support=v> [v]
 SUPPORTIVE
 SUPPOSABLE
@@ -122908,7 +122908,7 @@ SUPPOSABLY
 SUPPOSEDLY
 SUPPRESSED <suppress=v> [v]
 SUPPRESSES <suppress=v> [v]
-SUPPRESSOR one that suppresses (to put an end to forcibly) [n, pl. -S]
+SUPPRESSOR one that {suppresses=v} [n -S]
 SUPPURATED
 SUPPURATES
 SUPRAOPTIC
@@ -122965,7 +122965,7 @@ SUSTENANCE
 SUSURRUSES <susurrus=n> [n]
 SUZERAINTY
 SVELTENESS
-SWAGGERERS SWAGGERER, one that swaggers (to walk with a pompous air) [n, pl]
+SWAGGERERS <swaggerer=n> [n]
 SWAGGERING <swagger=v> [v]
 SWALLOWERS
 SWALLOWING <swallow=v> [v]
@@ -123547,7 +123547,7 @@ TOLERANTLY
 TOLERATING <tolerate=v> [v]
 TOLERATION
 TOLERATIVE
-TOLERATORS TOLERATOR, one that tolerates (to allow without active opposition) [n, pl]
+TOLERATORS <tolerator=n> [n]
 TOLLBOOTHS
 TOLLHOUSES
 TOLUIDINES
@@ -123743,7 +123743,7 @@ TRAUMATISE
 TRAUMATISM
 TRAUMATIZE
 TRAVAILING <travail=v> [v]
-TRAVELLERS TRAVELLER, one that travels (to go from one place to another) [n, pl]
+TRAVELLERS <traveller=n> [n]
 TRAVELLING <travel=v> [v]
 TRAVELOGUE
 TRAVERSALS
@@ -123843,7 +123843,7 @@ TRIMESTERS
 TRIMNESSES <trimness=n> [n]
 TRIMONTHLY
 TRIMORPHIC
-TRINKETERS TRINKETER, one that trinkets (to deal secretly) [n, pl]
+TRINKETERS <trinketer=n> [n]
 TRINKETING <trinket=v> [v]
 TRINOCULAR
 TRINOMIALS
@@ -124114,7 +124114,7 @@ UNBUTTERED
 UNBUTTONED <unbutton=v> [v]
 UNCALCINED
 UNCANCELED
-UNCANDIDLY in an uncandid manner (not frank and sincere) [adv]
+UNCANDIDLY in an uncandid manner [adv]
 UNCANNIEST <uncanny=adj> [adj]
 UNCARPETED
 UNCENSORED
@@ -124658,7 +124658,7 @@ UXORICIDES
 UXORIOUSLY
 VACANTNESS
 VACATIONED <vacation=v> [v]
-VACATIONER one that vacations (to take a vacation, a period of time devoted to rest and relaxation) [n, pl. -S]
+VACATIONER one that {vacations=v} [n -S]
 VACCINATED
 VACCINATES
 VACCINATOR
@@ -124911,7 +124911,7 @@ VIVIPARITY
 VIVIPAROUS
 VIVISECTED <vivisect=v> [v]
 VIVISECTOR
-VIZIERATES VIZIERATE, the office of a vizier (a high official in some Muslim countries) [n, pl]
+VIZIERATES <vizierate=n> [n]
 VIZIERSHIP
 VOCABULARY
 VOCALISING <vocalise=v> [v]
@@ -125280,7 +125280,7 @@ WORTHWHILE
 WRAITHLIKE
 WRAPAROUND
 WRATHFULLY
-WRESTLINGS WRESTLING, a type of hand-to-hand contest [n, pl]
+WRESTLINGS
 WRETCHEDER <wretched=adj> [adj]
 WRETCHEDLY
 WRIGGLIEST <wriggly=adj> [adj]
@@ -125337,14 +125337,14 @@ YOUTHFULLY
 YOUTHQUAKE
 YTTERBIUMS
 ZABAGLIONE
-ZAMINDARIS ZAMINDARI, the system of tax collection by zamindars (a tax collector in precolonial India) [n, pl]
+ZAMINDARIS <zamindari=n> [n]
 ZANINESSES <zaniness=n> [n]
 ZAPATEADOS
 ZEALOTRIES <zealotry=n> [n]
 ZEBRAWOODS
 ZEITGEBERS
 ZEITGEISTS
-ZIBELLINES ZIBELLINE, zibeline (a soft fabric) [n, pl]
+ZIBELLINES <zibelline=n> [n]
 ZIDOVUDINE
 ZIGZAGGING <zigzag=v> [v]
 ZINCIFYING <zincify=v> [v]
@@ -126624,7 +126624,7 @@ BENIGNANTLY
 BENIGNITIES
 BENZOCAINES
 BENZOFURANS
-BEQUEATHALS BEQUEATHAL, an act of bequeathing (to grant by testament) [n, pl]
+BEQUEATHALS <bequeathal=n> [n]
 BEQUEATHING <bequeath=v> [v]
 BERASCALING <berascal=v> [v]
 BEREAVEMENT
@@ -127917,7 +127917,7 @@ COMPILATION
 COMPLACENCE
 COMPLACENCY
 COMPLAINANT
-COMPLAINERS COMPLAINER, one that complains (to express discontent) [n, pl]
+COMPLAINERS <complainer=n> [n]
 COMPLAINING <complain=v> [v]
 COMPLAISANT
 COMPLECTING <complect=v> [v]
@@ -130645,7 +130645,7 @@ FORAMINIFER
 FORBEARANCE
 FORBIDDANCE
 FORCEPSLIKE
-FOREBODINGS FOREBODING, the act of one who forebodes (to indicate in advance) [n, pl]
+FOREBODINGS
 FORECADDIES
 FORECASTERS
 FORECASTING <forecast=v> [v]
@@ -130684,7 +130684,7 @@ FORESTALLER
 FORESTATION
 FORESTLANDS
 FORETASTING
-FORETELLERS FORETELLER, one that foretells (to tell of or about in advance) [n, pl]
+FORETELLERS <foreteller=n> [n]
 FORETELLING <foretell=v> [v]
 FORETHOUGHT
 FORETOKENED
@@ -131034,7 +131034,7 @@ GLAUCONITIC
 GLEEFULNESS
 GLEIZATIONS
 GLENGARRIES
-GLIMMERINGS GLIMMERING, an instance of shining faintly or unsteadily [n, pl]
+GLIMMERINGS
 GLOBALISING
 GLOBALIZING
 GLOBEFISHES
@@ -131446,7 +131446,7 @@ HERPETOLOGY
 HERRENVOLKS
 HERRINGBONE
 HESITANCIES
-HESITATIONS HESITATION, the act of one that hesitates (to hold back in uncertainty) [n, pl]
+HESITATIONS <hesitation=n> [n]
 HESPERIDINS
 HESPERIDIUM
 HETEROATOMS
@@ -132212,7 +132212,7 @@ INHALATIONS
 INHARMONIES
 INHERITABLE
 INHERITANCE
-INHERITRESS a female inheritor (one that inherits, to receive by legal succession) [n, pl. -ES]
+INHERITRESS a female {inheritor=n} [n -ES]
 INHIBITIONS
 INHUMANNESS
 INHUMATIONS
@@ -134103,7 +134103,7 @@ NANOSECONDS
 NAPHTHALENE
 NARCISSISMS
 NARCISSISTS
-NARCISSUSES NARCISSUS, a bulbous flowering plant [n, pl]
+NARCISSUSES <narcissus=n> [n]
 NARCOLEPTIC
 NARCOTIZING
 NARRATIONAL
@@ -134169,7 +134169,7 @@ NEGOTIATORY
 NEGROPHOBES
 NEGROPHOBIA
 NEIGHBORING <neighbor=v> [v]
-NEIGHBOURED NEIGHBOUR, neighbor (to live close to) [v]
+NEIGHBOURED <neighbour=v> [v]
 NEMATICIDAL
 NEMATICIDES
 NEMATOCIDAL
@@ -135774,7 +135774,7 @@ PLASMOLYSIS
 PLASMOLYTIC
 PLASMOLYZED
 PLASMOLYZES
-PLASTERINGS PLASTERING, a coating of or as if of plaster (a mixture of lime, sand, and water) [n, pl]
+PLASTERINGS
 PLASTERWORK
 PLASTICALLY
 PLASTICENES
@@ -136307,7 +136307,7 @@ PROCERCOIDS
 PROCESSABLE
 PROCESSIBLE
 PROCESSIONS
-PROCLAIMERS PROCLAIMER, one that proclaims (to make known publicly or officially) [n, pl]
+PROCLAIMERS <proclaimer=n> [n]
 PROCLAIMING <proclaim=v> [v]
 PROCONSULAR
 PROCREATING
@@ -136638,19 +136638,19 @@ QUAGMIRIEST <quagmiry=adj> [adj]
 QUALIFIABLE
 QUALIFIEDLY
 QUALITATIVE
-QUANTIFIERS QUANTIFIER, one that quantifies (to determine the quantity of) [n, pl]
+QUANTIFIERS <quantifier=n> [n]
 QUANTIFYING <quantify=v> [v]
 QUANTITATED
 QUANTITATES
 QUARANTINED
 QUARANTINES
-QUARRELLERS QUARRELLER, one that quarrels (to engage in an angry dispute) [n, pl]
+QUARRELLERS <quarreller=n> [n]
 QUARRELLING <quarrel=v> [v]
 QUARRELSOME
 QUARTERAGES
 QUARTERBACK
 QUARTERDECK
-QUARTERINGS QUARTERING, the division of an escutcheon containing different coats of arms into four or more compartments [n, pl]
+QUARTERINGS
 QUARTERLIES
 QUARTERSAWN
 QUATERNIONS
@@ -136662,7 +136662,7 @@ QUERCITRONS
 QUERULOUSLY
 QUESADILLAS
 QUESTIONARY
-QUESTIONERS QUESTIONER, one that questions (to put a question, an inquiry, to [n, pl]
+QUESTIONERS <questioner=n> [n]
 QUESTIONING <question=v> [v]
 QUICKNESSES
 QUICKSILVER
@@ -137374,7 +137374,7 @@ RESTITUTION
 RESTIVENESS
 RESTORATION
 RESTORATIVE
-RESTRAINERS RESTRAINER, one that restrains (to hold back from action) [n, pl]
+RESTRAINERS <restrainer=n> [n]
 RESTRAINING <restrain=v> [v]
 RESTRESSING <restress=v> [v]
 RESTRICTING <restrict=v> [v]
@@ -137754,7 +137754,7 @@ SCHISTOSITY
 SCHISTOSOME
 SCHIZOCARPS
 SCHIZOGONIC
-SCHMALTZIER SCHMALTZY, characterized by schmaltz (excessive sentimentality) [adj]
+SCHMALTZIER <schmaltzy=adj> [adj]
 SCHMALZIEST <schmalzy=adj> [adj]
 SCHNORKELED
 SCHOLARSHIP
@@ -138044,7 +138044,7 @@ SHOREFRONTS
 SHORTBREADS
 SHORTCHANGE
 SHORTCOMING
-SHORTENINGS SHORTENING, the action or process of making or becoming short (having little length) [n, pl]
+SHORTENINGS
 SHORTHAIRED
 SHORTHANDED
 SHORTNESSES
@@ -138183,8 +138183,8 @@ SMALLNESSES
 SMALLSWORDS
 SMARAGDITES
 SMARTNESSES
-SMATTERINGS SMATTERING, superficial piecemeal knowledge [n, pl]
-SMITHEREENS small fragments [n, pl]
+SMATTERINGS
+SMITHEREENS
 SMITHSONITE
 SMOKEHOUSES
 SMOKESTACKS
@@ -138281,7 +138281,7 @@ SOPHISTICAL
 SOPHISTRIES
 SOPPINESSES
 SORBABILITY
-SORCERESSES SORCERESS, a female sorcerer (one who practices sorcery, alleged use of supernatural powers) [n, pl]
+SORCERESSES <sorceress=n> [n]
 SORRINESSES
 SORROWFULLY
 SOTERIOLOGY
@@ -138536,7 +138536,7 @@ STEEPNESSES
 STEERAGEWAY
 STEGOSAURUS
 STELLIFYING <stellify=v> [v]
-STENCILLERS STENCILLER, one that stencils (to mark by means of a perforated sheet of material) [n, pl]
+STENCILLERS <stenciller=n> [n]
 STENCILLING <stencil=v> [v]
 STENOBATHIC
 STENOGRAPHY
@@ -139009,7 +139009,7 @@ SUPPRESSANT
 SUPPRESSING <suppress=v> [v]
 SUPPRESSION
 SUPPRESSIVE
-SUPPRESSORS SUPPRESSOR, one that suppresses (to put an end to forcibly) [n, pl]
+SUPPRESSORS <suppressor=n> [n]
 SUPPURATING
 SUPPURATION
 SUPPURATIVE
@@ -139584,7 +139584,7 @@ TRAGEDIENNE
 TRAGICOMEDY
 TRAILBLAZER
 TRAILERABLE
-TRAILERINGS TRAILERING, the act of one that trailers (to transport by means of a trailer, a vehicle drawn by another) [n, pl]
+TRAILERINGS
 TRAILERISTS
 TRAILERITES
 TRAINBEARER
@@ -140343,7 +140343,7 @@ USURPATIONS
 UTILITARIAN
 UTILIZATION
 UTOPIANISMS
-VACATIONERS VACATIONER, one that vacations (to take a vacation, a period of time devoted to rest and relaxation) [n, pl]
+VACATIONERS <vacationer=n> [n]
 VACATIONING <vacation=v> [v]
 VACATIONIST
 VACCINATING
@@ -140455,7 +140455,7 @@ VICEGERENTS
 VICEREGALLY
 VICEROYALTY
 VICEROYSHIP
-VICHYSSOISE a soup made of pureed leeks or onions and potatoes, cream, and chicken stock and usually served cold [n, pl. -S]
+VICHYSSOISE a soup made of pureed leeks or onions and potatoes, cream, and chicken stock and usually served cold [n -S]
 VICIOUSNESS
 VICISSITUDE
 VICTIMHOODS
@@ -140815,7 +140815,7 @@ YOUNGNESSES
 YOUTHQUAKES
 ZABAGLIONES
 ZEALOUSNESS
-ZEMINDARIES ZEMINDARY, zamindari (the system of tax collection by zamindars, a tax collector in precolonial India) [n, pl]
+ZEMINDARIES <zemindary=n> [n]
 ZEPTOSECOND
 ZESTFULNESS
 ZIDOVUDINES
@@ -145855,8 +145855,8 @@ INHABITATION
 INHALATIONAL
 INHARMONIOUS
 INHERITANCES
-INHERITRICES INHERITRIX, a female inheritor (one that inherits, to receive by legal succession) [n, pl]
-INHERITRIXES INHERITRIX, a female inheritor (one that inherits, to receive by legal succession) [n, pl]
+INHERITRICES <inheritrix=n> [n]
+INHERITRIXES <inheritrix=n> [n]
 INHOSPITABLE
 INHOSPITABLY
 INHUMANITIES
@@ -147239,7 +147239,7 @@ NEGLECTFULLY
 NEGOTIATIONS
 NEGROPHOBIAS
 NEIGHBORHOOD
-NEIGHBOURING NEIGHBOUR, neighbor (to live close to) [v]
+NEIGHBOURING <neighbour=v> [v]
 NEMATOLOGIES
 NEMATOLOGIST
 NEOCLASSICAL
@@ -149905,7 +149905,7 @@ SCHISTOSOMES
 SCHIZOGONIES
 SCHIZOGONOUS
 SCHIZOPHRENE
-SCHMALTZIEST SCHMALTZY, characterized by schmaltz (excessive sentimentality) [adj]
+SCHMALTZIEST <schmaltzy=adj> [adj]
 SCHNORKELING
 SCHOLARSHIPS
 SCHOOLBOYISH
@@ -150846,7 +150846,7 @@ SURREALISTIC
 SURREBUTTERS
 SURREJOINDER
 SURRENDERING
-SURROUNDINGS the circumstances, conditions, or objects by which one is surrounded [n, pl]
+SURROUNDINGS the circumstances, conditions, or objects by which one is surrounded [n]
 SURVEILLANCE
 SURVEILLANTS
 SURVIVALISTS
@@ -151925,7 +151925,7 @@ VEXILLOLOGIC
 VIBRAHARPIST
 VIBRAPHONIST
 VICEROYSHIPS
-VICHYSSOISES VICHYSSOISE, a soup made of pureed leeks or onions and potatoes, cream, and chicken stock and usually served cold [n, pl]
+VICHYSSOISES <vichyssoise=n> [n]
 VICISSITUDES
 VICTORIOUSLY
 VIDEOGRAPHER
@@ -155473,7 +155473,7 @@ INGURGITATING
 INGURGITATION
 INHABITANCIES
 INHABITATIONS
-INHERITRESSES INHERITRESS, a female inheritor (one that inherits, to receive by legal succession) [n, pl]
+INHERITRESSES <inheritress=n> [n]
 INHOMOGENEITY
 INHOMOGENEOUS
 INHOSPITALITY
