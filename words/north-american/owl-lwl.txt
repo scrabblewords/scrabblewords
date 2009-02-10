@@ -797,7 +797,7 @@ RAW {uncooked=adj} [adj RAWER, RAWEST] / a sore or irritated spot [n -S]
 RAX to stretch out [v -ED, -ING, -ES]
 RAY to emit rays (narrow beams of light) [v -ED, -ING, -S]
 REB a Confederate soldier [n -S]
-REC recreation [n -S]
+REC {recreation=n} [n -S]
 RED of the color of blood [adj REDDER, REDDEST] / to {redd=v} [v REDDED, REDDING, REDS]
 REE the female Eurasian sandpiper [n -S]
 REF to {referee=v} [v REFFED, REFFING, REFS]
@@ -10734,7 +10734,7 @@ PUCES <puce=n> [n]
 PUCKA {pukka=adj} [adj]
 PUCKS <puck=n> [n]
 PUDGY short and fat [adj PUDGIER, PUDGIEST] : PUDGILY [adv]
-PUDIC to the pudendum [adj]
+PUDIC of or pertaining to the pudendum [adj]
 PUFFS <puff=v> [v]
 PUFFY swollen [adj -FIER, -FIEST] : PUFFILY [adv]
 PUGGY {puggish=adj} [adj -GIER, -GIEST]
@@ -119923,7 +119923,7 @@ RECOVERERS
 RECOVERIES <recovery=n> [n]
 RECOVERING <recover=v> [v]
 RECREATING <recreate=v> [v]
-RECREATION
+RECREATION refreshment of strength and spirits after work [n -S]
 RECREATIVE
 RECROSSING <recross=v> [v]
 RECROWNING <recrown=v> [v]
@@ -136851,7 +136851,7 @@ RECONVINCES
 RECORDATION
 RECOUPMENTS
 RECOVERABLE
-RECREATIONS
+RECREATIONS <recreation=n> [n]
 RECRIMINATE
 RECRUDESCED
 RECRUDESCES
