@@ -1,0 +1,2 @@
+VOLOST an administrative district in Russia [n -S]
+VOLOSTS <volost=n> [n]
